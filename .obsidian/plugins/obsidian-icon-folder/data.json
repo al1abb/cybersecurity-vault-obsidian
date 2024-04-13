@@ -38,7 +38,7 @@
   "Tools/Web App Analysis & Enumeration": "📁",
   "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration": "📁",
   "Tools/Privilege Escalation": "📁",
-  "Tools/Exploitation and Payload Generation": "📁",
   "Tools/Password Cracking": "📁",
-  "Tools/Wireless Attacks": "📁"
+  "Tools/Wireless Attacks": "📁",
+  "Tools/Exploitation & Payload Generation": "📁"
 }

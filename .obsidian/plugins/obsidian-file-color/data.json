@@ -1,0 +1,71 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "HbhGCrYBG4dzU7nlX2t9R",
+      "name": "Network",
+      "value": "#3498db"
+    },
+    {
+      "id": "NKzEUZFc2n-ygKlKF-a0X",
+      "name": "Web",
+      "value": "#1abc9c"
+    },
+    {
+      "id": "ShC1nraTfw1X4NP_bRPkx",
+      "name": "Privilege Escalation",
+      "value": "#9b56b6"
+    },
+    {
+      "id": "9Nwlb8sUM-q4Km-LSRIpn",
+      "name": "Exploitation, Payload Gen",
+      "value": "#e74c3c"
+    },
+    {
+      "id": "rLbDSpEJo_H7xo6qpA5fl",
+      "name": "Password Cracking",
+      "value": "#f39c12"
+    },
+    {
+      "id": "t-j8z6j0CyiBTx_PtNvxe",
+      "name": "Wireless Attacks",
+      "value": "#34495e"
+    },
+    {
+      "id": "-5n5f98H0HQBOtlYGh-HN",
+      "name": "Informative Resources",
+      "value": "#95a5a6"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Tools/Network Scanning & Enumeration",
+      "color": "HbhGCrYBG4dzU7nlX2t9R"
+    },
+    {
+      "path": "Tools/Web App Analysis & Enumeration",
+      "color": "NKzEUZFc2n-ygKlKF-a0X"
+    },
+    {
+      "path": "Tools/Privilege Escalation",
+      "color": "ShC1nraTfw1X4NP_bRPkx"
+    },
+    {
+      "path": "Tools/Exploitation & Payload Generation",
+      "color": "9Nwlb8sUM-q4Km-LSRIpn"
+    },
+    {
+      "path": "Tools/Password Cracking",
+      "color": "rLbDSpEJo_H7xo6qpA5fl"
+    },
+    {
+      "path": "Tools/Wireless Attacks",
+      "color": "t-j8z6j0CyiBTx_PtNvxe"
+    },
+    {
+      "path": "Tools/Informative Resources",
+      "color": "-5n5f98H0HQBOtlYGh-HN"
+    }
+  ]
+}
