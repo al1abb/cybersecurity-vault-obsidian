@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📁",
+      "🖼",
+      "🔧",
+      "🗒"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Cheatsheets/Cheatsheets.md": "🗒",
+  "Tools/All Useful Tools.md": "🔧",
+  "Cheatsheets/Images": "🖼",
+  "Tools": "📁",
+  "Cheatsheets": "🗒",
+  "Tools/Informative Resources": "📁",
+  "Tools/Network Scanning & Enumeration": "📁",
+  "Tools/Web App Analysis & Enumeration": "📁",
+  "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration": "📁",
+  "Tools/Privilege Escalation": "📁",
+  "Tools/Exploitation and Payload Generation": "📁",
+  "Tools/Password Cracking": "📁",
+  "Tools/Wireless Attacks": "📁"
+}
