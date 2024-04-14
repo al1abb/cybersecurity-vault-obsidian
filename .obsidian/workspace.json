@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3291ea422945296a",
+            "id": "1f34aa5a66767f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,30 @@
             }
           },
           {
-            "id": "1f34aa5a66767f2a",
+            "id": "af93256d936c9e2e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3291ea422945296a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
+                "viewState": {
+                  "x": -686.3298891651616,
+                  "y": -189.7572068697839,
+                  "zoom": 0.6666666666666667
+                }
+              }
+            }
+          },
+          {
+            "id": "cdefe99733affc2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/All Useful Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/All Useful Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tools/All Useful Tools.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,13 +203,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3291ea422945296a",
+  "active": "af93256d936c9e2e",
   "lastOpenFiles": [
     "Tools/Network Scanning & Enumeration/NMAP.md",
     "Tools/All Useful Tools.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Tools/Privilege Escalation/Linuxprivchecker.md",
+    "Tools/Password Cracking/Hydra.md",
+    "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/FeroxBuster.md",
+    "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Gobuster.md",
     "Tools/Privilege Escalation/Evil-winrm.md",
     "Tools/Informative Resources/GTFOBins.md",
-    "Tools/Password Cracking/Hydra.md",
     "PEASS-ng - Privilege Escalation Awesome Scripts SUITE.md",
     "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Turbolist3r.md",
     "Tools/Network Scanning & Enumeration/Bettercap.md",
@@ -206,21 +230,16 @@
     "Tools/Exploitation & Payload Generation/Metasploit framework (Msfconsole).md",
     "Tools/Password Cracking",
     "Tools/Exploitation & Payload Generation/Veil.md",
-    "Tools/Privilege Escalation/Linuxprivchecker.md",
     "Tools/Exploitation & Payload Generation",
     "Tools/Untitled.md",
     "Untitled.md",
     "Tools/Privilege Escalation/LinEnum.md",
-    "Tools/Privilege Escalation/PEASS-ng (Privilege Escalation Awesome Scripts SUITE).md",
-    "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Dirb.md",
     "Tools/Privilege Escalation",
-    "Tools/Informative Resources/Payloads All The Things.md",
     "Tools/Web App Analysis & Enumeration/Untitled",
     "Tools/Informative Resources",
     "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration",
     "Tools/Web App Analysis & Enumeration",
     "Tools/Network Scanning & Enumeration",
-    "Cheatsheets/Cheatsheet Canvas.canvas",
     "Cheatsheets/Images",
     "Cheatsheets/Images/Common TCP-UDP Ports.png",
     "Pasted image 20240413165202.png",

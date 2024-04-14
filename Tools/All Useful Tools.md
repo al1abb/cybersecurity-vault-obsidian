@@ -9,6 +9,7 @@
 | [[Wfuzz]]                                                 |                                                                                                                              |                                  |
 | [[Ffuf]]                                                  |                                                                                                                              |                                  |
 | [[Turbolist3r]]                                           |                                                                                                                              |                                  |
+| [[FeroxBuster]]                                           |                                                                                                                              |                                  |
 | [[EyeWitness]]                                            | Can be used to take screenshots of target web applications, fingerprint them, and identify possible default credentials.     |                                  |
 | [[Whatweb]]                                               | Extract the version of web servers, supporting frameworks, and applications                                                  |                                  |
 | [[Payloads All The Things]]                               | A list of useful payloads and bypass for Web Application Security and Pentest/CTF                                            |                                  |
@@ -25,4 +26,6 @@
 | [[Evil-winrm]]                                            |                                                                                                                              |                                  |
 | [[John-The-Ripper]]                                       |                                                                                                                              |                                  |
 | [[Hashcat]]                                               |                                                                                                                              |                                  |
+| [[Crunch]]                                                |                                                                                                                              |                                  |
+| [[Hydra]]                                                 |                                                                                                                              |                                  |
 | [[SQLMap]]                                                |                                                                                                                              |                                  |
