@@ -1,6 +1,7 @@
 ##### Usage
 
 `nmap [IP]`
+--
 - `-sV` = Version Scan
 - `-sC` = Default Script Scan
 - `-sT` = Scan Only TCP

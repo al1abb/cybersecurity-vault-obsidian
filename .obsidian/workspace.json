@@ -8,12 +8,44 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2162b6d5af8d678a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "1f34aa5a66767f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/All Useful Tools.md",
+                "file": "Linux/Archive File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec5ca47e1fd66934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Network Scanning & Enumeration/NMAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdefe99733affc2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Network Scanning & Enumeration/Wireshark.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +55,12 @@
             "id": "af93256d936c9e2e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tool Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -41,29 +77,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "cdefe99733affc2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Network Scanning & Enumeration/NMAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "215f515539757b1f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +196,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,47 +214,49 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "af93256d936c9e2e",
+  "active": "2162b6d5af8d678a",
   "lastOpenFiles": [
+    "Linux/Archive File.md",
+    "Linux/Commands/tar.md",
+    "Linux/Compression.md",
+    "Linux/Commands/bzip2.md",
+    "Linux/Commands/gzip.md",
+    "Linux/Hexdumps.md",
+    "Linux/Commands/xxd.md",
+    "Linux/Commands/mv.md",
+    "Linux/Commands/uniq.md",
+    "Linux/Commands/find.md",
+    "Linux/Commands/ls.md",
+    "Linux/Commands/grep.md",
+    "Templates/Tool Template.md",
+    "Tools/Password Cracking/John-The-Ripper.md",
+    "Linux/Commands/base64.md",
+    "Linux/Commands/cp.md",
+    "Linux/Commands/mkdir.md",
+    "Linux/Commands/tr.md",
+    "Tools/Network Scanning & Enumeration/Bettercap.md",
+    "Linux/Commands/strings.md",
+    "Linux/Commands/sort.md",
+    "Linux/Commands/General.md",
+    "Linux/Commands/du.md",
     "Tools/Network Scanning & Enumeration/NMAP.md",
     "Tools/All Useful Tools.md",
-    "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Tools/Privilege Escalation/Linuxprivchecker.md",
-    "Tools/Password Cracking/Hydra.md",
-    "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/FeroxBuster.md",
-    "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Gobuster.md",
-    "Tools/Privilege Escalation/Evil-winrm.md",
-    "Tools/Informative Resources/GTFOBins.md",
-    "PEASS-ng - Privilege Escalation Awesome Scripts SUITE.md",
-    "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Turbolist3r.md",
-    "Tools/Network Scanning & Enumeration/Bettercap.md",
-    "Tools/Wireless Attacks/Aircrack-ng Suite.md",
-    "Tools/Web App Analysis & Enumeration/Beef.md",
-    "Tools/Web App Analysis & Enumeration/SQLMap.md",
-    "Tools/Web App Analysis & Enumeration/EyeWitness.md",
     "Tools/Network Scanning & Enumeration/Wireshark.md",
+    "Linux/Commands",
+    "Linux",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Templates",
     "Tools/Wireless Attacks",
-    "Tools/Password Cracking/Crunch.md",
-    "Tools/Exploitation & Payload Generation/Weevely.md",
-    "Tools/Password Cracking/Hashcat.md",
-    "Tools/Password Cracking/John-The-Ripper.md",
-    "Tools/Exploitation & Payload Generation/Metasploit framework (Msfconsole).md",
     "Tools/Password Cracking",
-    "Tools/Exploitation & Payload Generation/Veil.md",
     "Tools/Exploitation & Payload Generation",
-    "Tools/Untitled.md",
-    "Untitled.md",
-    "Tools/Privilege Escalation/LinEnum.md",
     "Tools/Privilege Escalation",
     "Tools/Web App Analysis & Enumeration/Untitled",
     "Tools/Informative Resources",
     "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration",
-    "Tools/Web App Analysis & Enumeration",
-    "Tools/Network Scanning & Enumeration",
-    "Cheatsheets/Images",
     "Cheatsheets/Images/Common TCP-UDP Ports.png",
     "Pasted image 20240413165202.png",
     "Common TCP-UDP ports.png",

@@ -40,5 +40,7 @@
   "Tools/Privilege Escalation": "📁",
   "Tools/Password Cracking": "📁",
   "Tools/Wireless Attacks": "📁",
-  "Tools/Exploitation & Payload Generation": "📁"
+  "Tools/Exploitation & Payload Generation": "📁",
+  "Linux/Commands": "📁",
+  "Linux": "📁"
 }

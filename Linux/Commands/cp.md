@@ -1,7 +1,9 @@
 ##### Usage
 
-`bettercap`
+`cp` - Copy files
 --
+
 - A
 - B
 - C
+
