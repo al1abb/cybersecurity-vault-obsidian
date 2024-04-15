@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Cronjobs.md",
+                "file": "Linux/Commands/cat.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cut",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Cronjobs.md",
+                "file": "Linux/Commands/cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Cronjobs.md",
+                "file": "Linux/Commands/cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Cronjobs.md"
+                "file": "Linux/Commands/cat.md"
               }
             }
           },
@@ -213,10 +212,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf7cd8b1df2ade60",
+  "active": "7d796abdb49302a1",
   "lastOpenFiles": [
-    "Linux/Commands/echo.md",
     "Linux/Cronjobs.md",
+    "Linux/Commands/cat.md",
+    "Linux/Commands/echo.md",
     "Linux/SUID.md",
     "Linux/Operators.md",
     "Templates/Tool Template.md",
@@ -244,7 +244,6 @@
     "Linux/Commands/mkdir.md",
     "Linux/Commands/scp.md",
     "Linux/Commands/General.md",
-    "Tools/Network Scanning & Enumeration/NMAP.md",
     "Linux/Files",
     "Topics/Cryptography",
     "Topics",
