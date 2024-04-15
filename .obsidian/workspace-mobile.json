@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9a718358ebd02430",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2db250f119a7315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf315d2d8d6de4d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/All Useful Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c4543ab9776c8a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cda1763dcb013fd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
+                "viewState": {
+                  "x": -1395.0119273127852,
+                  "y": -978.8079460581695,
+                  "zoom": -1.5018525251438999
+                }
+              }
+            }
+          },
+          {
+            "id": "12f4da484b51356f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Commands/tr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64761e11363ffb22",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "565b3bbe0bb1aba6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a41bd954954dc856",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a34baf97c5271fa8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a8d4b9d31fb69800",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "c6a42963f0519347",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d704987bc6263782",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "031bccf76a81fa44",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Linux/Commands/tr.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2d4ea900c95a7481",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Linux/Commands/tr.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8498936f110161e5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Linux/Commands/tr.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "12f4da484b51356f",
+  "lastOpenFiles": [
+    "Linux/Commands/tar.md",
+    "Linux/Commands/strings.md",
+    "Linux/Commands/ssh.md",
+    "Linux/Commands/sort.md",
+    "Linux/Commands/scp.md",
+    "Linux/Commands/openssl s_client.md",
+    "Linux/Commands/nc (Netcat).md",
+    "Linux/Commands/mv.md",
+    "Linux/Commands/mktemp.md",
+    "Linux/Commands/mkdir.md",
+    "Linux/Commands/ls.md",
+    "Linux/Commands/jobs.md",
+    "Linux/Commands/gzip.md",
+    "Linux/Commands/grep.md",
+    "Linux/Commands/General.md",
+    "Linux/Commands/find.md",
+    "Linux/Commands/echo.md",
+    "Linux/Commands/du.md",
+    "Linux/Commands/diff.md",
+    "Linux/Commands/cp.md",
+    "Linux/Commands/chmod.md",
+    "Linux/Commands/cat.md",
+    "Linux/Commands/bzip2.md",
+    "Linux/Commands/base64.md",
+    "Tools/Network Scanning & Enumeration/NMAP.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Tools/All Useful Tools.md"
+  ]
+}
