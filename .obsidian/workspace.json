@@ -11,12 +11,8 @@
             "id": "fc53ddb854a79a1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Commands/chmod.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -49,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Commands/cat.md",
+                "file": "Linux/Commands/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Commands/cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Commands/cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Commands/cat.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,10 +203,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d796abdb49302a1",
+  "active": "fc53ddb854a79a1c",
   "lastOpenFiles": [
-    "Linux/Cronjobs.md",
+    "Linux/Commands/chmod.md",
+    "Linux/Commands/General.md",
+    "Linux/Bash Scripting.md",
+    "Linux/Commands/mktemp.md",
+    "Linux/Hexdumps.md",
+    "Linux/Files/bashrc.md",
+    "Linux/Commands/tr.md",
     "Linux/Commands/cat.md",
+    "Linux/Commands/find.md",
+    "Linux/Cronjobs.md",
     "Linux/Commands/echo.md",
     "Linux/SUID.md",
     "Linux/Operators.md",
@@ -227,23 +226,15 @@
     "Linux/Commands/nc (Netcat).md",
     "Linux/Linux Permissions.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Linux/Commands/chmod.md",
     "Linux/Commands/ls.md",
     "Cheatsheets/Images/Linux File Permissions. Binary+Octal.png",
     "Cheatsheets/Images/Linux Permissions. RWX.png",
     "Linux/Commands/bzip2.md",
     "Tools/All Useful Tools.md",
     "Linux/Commands/ssh.md",
-    "Linux/Files/bashrc.md",
-    "Linux/Hexdumps.md",
     "Linux/Port Scanning.md",
     "Linux/OpenSSL.md",
     "Linux/Compression.md",
-    "Linux/Files/Archive File.md",
-    "Topics/Cryptography/Public-Key Cryptography.md",
-    "Linux/Commands/mkdir.md",
-    "Linux/Commands/scp.md",
-    "Linux/Commands/General.md",
     "Linux/Files",
     "Topics/Cryptography",
     "Topics",
