@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Commands/tr.md",
+                "file": "Linux/Files/bashrc.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Linux/Commands/tr.md",
+            "file": "Linux/Files/bashrc.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Linux/Commands/tr.md",
+            "file": "Linux/Files/bashrc.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -162,7 +162,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Linux/Commands/tr.md"
+            "file": "Linux/Files/bashrc.md"
           }
         }
       }
@@ -186,6 +186,23 @@
   },
   "active": "12f4da484b51356f",
   "lastOpenFiles": [
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Cheatsheets/Cheatsheets.md",
+    "Topics/Cryptography/Public-Key Cryptography.md",
+    "Linux/SUID.md",
+    "Linux/Port Scanning.md",
+    "Linux/Operators.md",
+    "Linux/OpenSSL.md",
+    "Linux/Linux Permissions.md",
+    "Linux/Commands/chmod.md",
+    "Linux/Cronjobs.md",
+    "Linux/Hexdumps.md",
+    "Linux/Compression.md",
+    "Linux/Files/bashrc.md",
+    "Linux/Files/Archive File.md",
+    "Linux/Commands/xxd.md",
+    "Linux/Commands/uniq.md",
+    "Linux/Commands/tr.md",
     "Linux/Commands/tar.md",
     "Linux/Commands/strings.md",
     "Linux/Commands/ssh.md",
@@ -194,24 +211,6 @@
     "Linux/Commands/openssl s_client.md",
     "Linux/Commands/nc (Netcat).md",
     "Linux/Commands/mv.md",
-    "Linux/Commands/mktemp.md",
-    "Linux/Commands/mkdir.md",
-    "Linux/Commands/ls.md",
-    "Linux/Commands/jobs.md",
-    "Linux/Commands/gzip.md",
-    "Linux/Commands/grep.md",
-    "Linux/Commands/General.md",
-    "Linux/Commands/find.md",
-    "Linux/Commands/echo.md",
-    "Linux/Commands/du.md",
-    "Linux/Commands/diff.md",
-    "Linux/Commands/cp.md",
-    "Linux/Commands/chmod.md",
-    "Linux/Commands/cat.md",
-    "Linux/Commands/bzip2.md",
-    "Linux/Commands/base64.md",
-    "Tools/Network Scanning & Enumeration/NMAP.md",
-    "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Tools/All Useful Tools.md"
+    "Linux/Commands/mktemp.md"
   ]
 }
