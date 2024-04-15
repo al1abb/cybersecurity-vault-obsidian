@@ -28,11 +28,8 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "Cheatsheets/Cheatsheets.md": "🗒",
   "Tools/All Useful Tools.md": "🔧",
-  "Cheatsheets/Images": "🖼",
   "Tools": "📁",
-  "Cheatsheets": "🗒",
   "Tools/Informative Resources": "📁",
   "Tools/Network Scanning & Enumeration": "📁",
   "Tools/Web App Analysis & Enumeration": "📁",
@@ -42,5 +39,12 @@
   "Tools/Wireless Attacks": "📁",
   "Tools/Exploitation & Payload Generation": "📁",
   "Linux/Commands": "📁",
-  "Linux": "📁"
+  "Linux": "📁",
+  "Topics": "📁",
+  "Topics/Cryptography": "📁",
+  "Linux/Files": "📁",
+  "Cheatsheets": "🗒",
+  "Cheatsheets/Cheatsheets.md": "🗒",
+  "Cheatsheets/Images": "🖼",
+  "Templates": "📁"
 }

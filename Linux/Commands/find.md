@@ -1,7 +1,9 @@
-##### Usage
+### `find` — Search for files in a directory hierarchy
 
-`find`
---
+**Default Usage**
+	`find <file_name>` 
+
+**OPTIONS**
 - `-size <bytes>` = Look for files in this size
 - `-type f` = No directories/non-executables (only files)
 - `-readable` = Show readable (permission) files

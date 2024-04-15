@@ -13,6 +13,6 @@ Hexdumps can be used to figure out the type of a file.
 
 Each file type has a **magic number/file signature**. You can find [lists](https://en.wikipedia.org/wiki/List_of_file_signatures) with a collection of these different file signatures online. 
 
-The `file` command, which was introduced in [Level 5](https://mayadevbe.me/posts/overthewire/bandit/level5/) also uses this method (and more beyond that). 
+The `file` command, which was introduced in [Level 5](https://mayadevbe.me/posts/overthewire/bandit/level5/)(in OverTheWire/Bandit) also uses this method (and more beyond that). 
 
 This is especially important to know because sometimes files might not have the correct or any file ending to identify its type.

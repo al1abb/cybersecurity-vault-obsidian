@@ -1,9 +1,11 @@
-##### Usage
+### `base64` — Allows for encoding and decoding in base64
 
-`base64` - allows for encoding and decoding in Base64
---
+**Default Usage**
+	`base64`
 
+**OPTIONS**
 - `-d` = For decoding
 - B
 - C
-
+ 
+  

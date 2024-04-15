@@ -1,9 +1,10 @@
-##### Usage
+ 
+### `ls` — List files
 
-`ls`
---
+**Default Usage**
+	`ls` 
 
-- `-l` = Show permissions, user/group ownage
-- B
+**OPTIONS**
+- `-a` = Show all files, including hidden
+- `-l` = Show permissions, user/group/everyone
 - C
-

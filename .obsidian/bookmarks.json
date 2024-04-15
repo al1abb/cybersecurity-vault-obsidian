@@ -6,6 +6,12 @@
       "items": [
         {
           "type": "group",
+          "ctime": 1713181756764,
+          "items": [],
+          "title": "Cheatsheets"
+        },
+        {
+          "type": "group",
           "ctime": 1713028687283,
           "items": [
             {
@@ -225,34 +231,21 @@
         },
         {
           "type": "group",
-          "ctime": 1713028687283,
-          "items": [
-            {
-              "type": "group",
-              "ctime": 1713028716467,
-              "items": [],
-              "title": "Images"
-            },
-            {
-              "type": "file",
-              "ctime": 1713028716468,
-              "path": "Cheatsheets/Cheatsheets.md",
-              "subpath": "#^-"
-            },
-            {
-              "type": "file",
-              "ctime": 1713028716468,
-              "path": "Cheatsheets/Cheatsheet Canvas.canvas",
-              "subpath": "#^-"
-            },
-            {
-              "type": "group",
-              "ctime": 1713028716467,
-              "items": [],
-              "title": "Images"
-            }
-          ],
-          "title": "Cheatsheets"
+          "ctime": 1713181756764,
+          "items": [],
+          "title": "Linux"
+        },
+        {
+          "type": "group",
+          "ctime": 1713181756764,
+          "items": [],
+          "title": "Templates"
+        },
+        {
+          "type": "group",
+          "ctime": 1713181756764,
+          "items": [],
+          "title": "Topics"
         }
       ],
       "title": "sortspec"

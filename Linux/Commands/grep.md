@@ -1,9 +1,9 @@
-##### Usage
+### `grep` — Filter certain text from input
 
-`grep`
---
+**Default Usage**
+	`grep <string_to_filter>` 
 
+**OPTIONS**
 - `-v` = Filter out / Opposite grep
 - B
 - C
-

@@ -1,8 +1,9 @@
-##### Usage
+### `tr` — Allows replacing characters with others (Translate char pos)
 
-`tr <old_chars> <new_chars>` (Translate) - allows replacing characters with others
---
+**Default Usage**
+	`tr <old_chars> <new_chars>` 
 
+**OPTIONS**
 - A
 - B
 - C
