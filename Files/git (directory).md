@@ -1,0 +1,1 @@
+This folder **contains all of the information that [[Git (Version Control System)]] needs to track changes to your codebase**, and it's an essential part of the Git workflow

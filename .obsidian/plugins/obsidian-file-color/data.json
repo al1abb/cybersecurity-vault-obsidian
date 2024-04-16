@@ -4,7 +4,7 @@
   "palette": [
     {
       "id": "HbhGCrYBG4dzU7nlX2t9R",
-      "name": "Network",
+      "name": "Light blue",
       "value": "#3498db"
     },
     {
@@ -19,12 +19,12 @@
     },
     {
       "id": "9Nwlb8sUM-q4Km-LSRIpn",
-      "name": "Exploitation, Payload Gen",
+      "name": "Red",
       "value": "#e74c3c"
     },
     {
       "id": "rLbDSpEJo_H7xo6qpA5fl",
-      "name": "Password Cracking",
+      "name": "Orange",
       "value": "#f39c12"
     },
     {
@@ -36,6 +36,21 @@
       "id": "-5n5f98H0HQBOtlYGh-HN",
       "name": "Informative Resources",
       "value": "#95a5a6"
+    },
+    {
+      "id": "-DwvqmFWvBiJ-5fZNdpx6",
+      "name": "Blue Violet",
+      "value": "#8a2be2"
+    },
+    {
+      "id": "SDYIUD8Jk00SOVxazfzOy",
+      "name": "Green",
+      "value": "#008000"
+    },
+    {
+      "id": "4iU8xL0QpvAUMpZMnnV-4",
+      "name": "Gold",
+      "value": "#ffd700"
     }
   ],
   "fileColors": [
@@ -70,6 +85,42 @@
     {
       "path": "Tools/Privilege Escalation/Linuxprivchecker.md",
       "color": "ShC1nraTfw1X4NP_bRPkx"
+    },
+    {
+      "path": "Linux/Commands/Compression and Archiving",
+      "color": "rLbDSpEJo_H7xo6qpA5fl"
+    },
+    {
+      "path": "Linux/Commands/Data Representation",
+      "color": "-DwvqmFWvBiJ-5fZNdpx6"
+    },
+    {
+      "path": "Linux/Commands/File Operations",
+      "color": "SDYIUD8Jk00SOVxazfzOy"
+    },
+    {
+      "path": "Linux/Commands/Networking",
+      "color": "HbhGCrYBG4dzU7nlX2t9R"
+    },
+    {
+      "path": "Linux/Commands/System Management",
+      "color": "4iU8xL0QpvAUMpZMnnV-4"
+    },
+    {
+      "path": "Linux/Commands/Text Processing",
+      "color": "t-j8z6j0CyiBTx_PtNvxe"
+    },
+    {
+      "path": "Linux/Topics",
+      "color": "-5n5f98H0HQBOtlYGh-HN"
+    },
+    {
+      "path": "Linux/Files",
+      "color": "SDYIUD8Jk00SOVxazfzOy"
+    },
+    {
+      "path": "Files",
+      "color": "SDYIUD8Jk00SOVxazfzOy"
     }
   ]
 }

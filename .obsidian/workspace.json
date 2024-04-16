@@ -8,20 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc53ddb854a79a1c",
+            "id": "f25302eb021a1101",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "d9b40ddaa3000bbf",
+            "id": "98acfe3ea05d2c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SUID.md",
+                "file": "Linux/Commands/Text Processing/strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,19 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux Permissions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d796abdb49302a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Commands/General.md",
+                "file": "Linux/Topics/Linux Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,8 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5a51c70af1eb9fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Topics/SUID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,13 +132,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Linux/Topics/SUID.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -145,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Topics/SUID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/Topics/SUID.md"
+              }
             }
           },
           {
@@ -203,47 +210,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc53ddb854a79a1c",
+  "active": "e5a51c70af1eb9fe",
   "lastOpenFiles": [
-    "Linux/Commands/chmod.md",
-    "Linux/Commands/General.md",
-    "Linux/Bash Scripting.md",
-    "Linux/Commands/mktemp.md",
-    "Linux/Hexdumps.md",
-    "Linux/Files/bashrc.md",
-    "Linux/Commands/tr.md",
-    "Linux/Commands/cat.md",
-    "Linux/Commands/find.md",
-    "Linux/Cronjobs.md",
-    "Linux/Commands/echo.md",
-    "Linux/SUID.md",
-    "Linux/Operators.md",
-    "Templates/Tool Template.md",
-    "Linux/Operators/Pipe.md",
-    "Linux/Operators/&.md",
-    "Linux/Commands/jobs.md",
-    "Linux/Operators",
-    "Linux/Commands/nc (Netcat).md",
-    "Linux/Linux Permissions.md",
+    "Linux/Topics/Linux Permissions.md",
+    "Linux/Topics/Port Scanning.md",
+    "Linux/Topics/OpenSSL.md",
+    "Linux/Topics/Hexdumps.md",
+    "Linux/Topics/Git (Version Control System).md",
+    "Linux/Topics/Vim.md",
+    "Linux/Topics/Bash Scripting.md",
+    "Linux/Topics/Cronjobs.md",
+    "Linux/Topics/Operators.md",
+    "Linux/Commands/Text Processing/strings.md",
+    "Linux/Commands/Text Processing/tr.md",
+    "Linux/Commands/Text Processing/echo.md",
+    "Linux/Commands/Text Processing/uniq.md",
+    "Linux/Commands/System Management/chmod.md",
+    "Linux/Commands/System Management/du.md",
+    "Linux/Commands/System Management/whoami.md",
+    "Linux/Commands/System Management/printenv.md",
+    "Linux/Commands/Networking/scp.md",
+    "Linux/Commands/Networking/nc (Netcat).md",
+    "Linux/Commands/Networking/ping.md",
+    "Linux/Commands/File Operations/cat.md",
+    "Linux/Commands/File Operations/cp.md",
+    "Linux/Commands/File Operations/mkdir.md",
+    "Linux/Commands/Compression and Archiving/bzip2.md",
+    "Linux/Commands/Compression and Archiving/gzip.md",
+    "Linux/Commands/Compression and Archiving/tar.md",
+    "Linux/Commands/Untitled.canvas",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Linux/Commands/ls.md",
+    "Linux/Commands/Data Representation",
+    "Linux/Commands/Compression and Archiving",
+    "Linux/Files",
+    "Linux/Topics",
+    "Linux/Commands/System Management",
+    "Linux/Commands/Networking",
+    "Linux/Commands/Text Processing",
+    "Linux/Commands/File Operations",
+    "Files/Linux",
+    "Linux/Operators",
     "Cheatsheets/Images/Linux File Permissions. Binary+Octal.png",
     "Cheatsheets/Images/Linux Permissions. RWX.png",
-    "Linux/Commands/bzip2.md",
-    "Tools/All Useful Tools.md",
-    "Linux/Commands/ssh.md",
-    "Linux/Port Scanning.md",
-    "Linux/OpenSSL.md",
-    "Linux/Compression.md",
-    "Linux/Files",
-    "Topics/Cryptography",
-    "Topics",
-    "Linux/Commands",
-    "Linux",
-    "Templates",
-    "Tools/Wireless Attacks",
-    "Tools/Password Cracking",
-    "Tools/Exploitation & Payload Generation",
     "Cheatsheets/Images/Common TCP-UDP Ports.png",
     "Pasted image 20240413165202.png",
     "Common TCP-UDP ports.png",
