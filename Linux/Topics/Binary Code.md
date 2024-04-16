@@ -1,0 +1,1 @@
+**Binary** code is the most basic representation of data for a computer. This is what the computer uses internally. It comes from the binary number system, which only includes ‘0’ and ‘1’ as digits, also called ‘bits’.

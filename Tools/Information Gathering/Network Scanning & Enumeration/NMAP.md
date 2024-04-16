@@ -15,4 +15,4 @@
 - `--open` = Scan All Open Ports
 - `-A` = Perform ALL possible scans (will take a while) (use with -p- for full scan)
 
-Tags: #network-scanning 
+#network-scanning 

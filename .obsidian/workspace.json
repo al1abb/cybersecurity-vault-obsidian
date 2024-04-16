@@ -18,18 +18,6 @@
             }
           },
           {
-            "id": "98acfe3ea05d2c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Commands/Text Processing/strings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b0c36f73c8c4e911",
             "type": "leaf",
             "state": {
@@ -47,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Network Scanning & Enumeration/NMAP.md",
+                "file": "Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,14 +47,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Topics/SUID.md",
+                "file": "Templates/Tool Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65913e7207849580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Privilege Escalation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42368f9a5af6fffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Commands/Text Processing/grep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39fb14589d07398a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/MITM/ARP Spoofing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Topics/SUID.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Topics/SUID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Topics/SUID.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,34 +229,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5a51c70af1eb9fe",
+  "active": "f25302eb021a1101",
   "lastOpenFiles": [
-    "Linux/Topics/Linux Permissions.md",
-    "Linux/Topics/Port Scanning.md",
-    "Linux/Topics/OpenSSL.md",
-    "Linux/Topics/Hexdumps.md",
-    "Linux/Topics/Git (Version Control System).md",
-    "Linux/Topics/Vim.md",
-    "Linux/Topics/Bash Scripting.md",
-    "Linux/Topics/Cronjobs.md",
-    "Linux/Topics/Operators.md",
+    "Security/MITM/ARP Spoofing.md",
+    "Security/MITM/DNS Spoofing.md",
+    "Images/DNS.png",
+    "Images/ARP Spoofing Attack.png",
+    "Pasted image 20240416224454.png",
+    "Linux/Commands/Networking/arp.md",
+    "Cheatsheets/Cheatsheets.md",
+    "Images/ARP Protocol.png",
+    "Security/Privilege Escalation.md",
+    "Security/SSA (Server Side Attacks).md",
+    "Security/Web/Remote File Inclusion.md",
+    "Security/Web/Local File Inclusion.md",
+    "Security/Web/Code Execution Vulnerabilities.md",
+    "Security/Web/File Upload Vulnerabilities.md",
+    "Security/Web/IDOR (Insecure Direct Object Reference).md",
+    "Security/Web/XSS (Cross Site Scripting).md",
+    "Security/Web/SQLi (SQL Injection).md",
+    "Security/Cryptography/Public-Key Cryptography.md",
+    "Linux/Commands/General.md",
+    "Security/MITM",
+    "Security/CSA (Client Side Attacks).md",
+    "Tools/Information Gathering/Maltego.md",
+    "Tools/Information Gathering",
+    "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Dirb.md",
+    "Security/Web",
+    "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Knockpy.md",
+    "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Untitled.md",
     "Linux/Commands/Text Processing/strings.md",
-    "Linux/Commands/Text Processing/tr.md",
-    "Linux/Commands/Text Processing/echo.md",
-    "Linux/Commands/Text Processing/uniq.md",
-    "Linux/Commands/System Management/chmod.md",
-    "Linux/Commands/System Management/du.md",
-    "Linux/Commands/System Management/whoami.md",
-    "Linux/Commands/System Management/printenv.md",
-    "Linux/Commands/Networking/scp.md",
-    "Linux/Commands/Networking/nc (Netcat).md",
-    "Linux/Commands/Networking/ping.md",
-    "Linux/Commands/File Operations/cat.md",
-    "Linux/Commands/File Operations/cp.md",
-    "Linux/Commands/File Operations/mkdir.md",
-    "Linux/Commands/Compression and Archiving/bzip2.md",
-    "Linux/Commands/Compression and Archiving/gzip.md",
-    "Linux/Commands/Compression and Archiving/tar.md",
+    "Tools/All Useful Tools.md",
+    "Tools/Information Gathering/Network Scanning & Enumeration/Bettercap.md",
+    "Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
+    "Linux/Files/Link.md",
+    "Security",
+    "Tools/Reverse Engineering",
     "Linux/Commands/Untitled.canvas",
     "Cheatsheets/Cheatsheet Canvas.canvas",
     "Linux/Commands/Data Representation",
@@ -245,14 +272,9 @@
     "Linux/Files",
     "Linux/Topics",
     "Linux/Commands/System Management",
-    "Linux/Commands/Networking",
-    "Linux/Commands/Text Processing",
-    "Linux/Commands/File Operations",
-    "Files/Linux",
-    "Linux/Operators",
-    "Cheatsheets/Images/Linux File Permissions. Binary+Octal.png",
-    "Cheatsheets/Images/Linux Permissions. RWX.png",
-    "Cheatsheets/Images/Common TCP-UDP Ports.png",
+    "Images/Linux File Permissions. Binary+Octal.png",
+    "Images/Linux Permissions. RWX.png",
+    "Images/Common TCP-UDP Ports.png",
     "Pasted image 20240413165202.png",
     "Common TCP-UDP ports.png",
     "Untitled.canvas"

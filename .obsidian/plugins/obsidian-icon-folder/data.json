@@ -31,7 +31,6 @@
   "Tools/All Useful Tools.md": "🔧",
   "Tools": "📁",
   "Tools/Informative Resources": "📁",
-  "Tools/Network Scanning & Enumeration": "📁",
   "Tools/Web App Analysis & Enumeration": "📁",
   "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration": "📁",
   "Tools/Privilege Escalation": "📁",
@@ -42,7 +41,6 @@
   "Linux": "📁",
   "Cheatsheets": "🗒",
   "Cheatsheets/Cheatsheets.md": "🗒",
-  "Cheatsheets/Images": "🖼",
   "Templates": "📁",
   "Files": "📁",
   "Linux/Commands/File Operations": "📁",
@@ -50,8 +48,15 @@
   "Linux/Commands/Networking": "📁",
   "Linux/Commands/System Management": "📁",
   "Linux/Topics": "📁",
-  "Linux/Topics/Cryptography": "📁",
   "Linux/Files": "📁",
   "Linux/Commands/Compression and Archiving": "📁",
-  "Linux/Commands/Data Representation": "📁"
+  "Linux/Commands/Data Representation": "📁",
+  "Tools/Reverse Engineering": "📁",
+  "Security": "📁",
+  "Security/Cryptography": "📁",
+  "Security/Web": "📁",
+  "Tools/Information Gathering": "📁",
+  "Security/MITM": "📁",
+  "Tools/Information Gathering/Network Scanning & Enumeration": "📁",
+  "Images": "🖼"
 }

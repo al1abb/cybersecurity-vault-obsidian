@@ -1,7 +1,0 @@
-##### Usage
-
-`bettercap`
---
-- A
-- B
-- C

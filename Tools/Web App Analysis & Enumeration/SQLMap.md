@@ -1,6 +1,8 @@
-##### Usage
+ 
+### `SQLMap` — Used for automated discovery of SQL injection vulnerabilities in web apps
 
-`sqlmap`
-- A
-- B
-- C
+**Default Usage**
+	`sqlmap` 
+
+**OPTIONS**
+- `-u [target_url]`

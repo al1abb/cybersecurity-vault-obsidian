@@ -55,7 +55,7 @@
   ],
   "fileColors": [
     {
-      "path": "Tools/Network Scanning & Enumeration",
+      "path": "Tools/Information Gathering/Network Scanning & Enumeration",
       "color": "HbhGCrYBG4dzU7nlX2t9R"
     },
     {
@@ -121,6 +121,18 @@
     {
       "path": "Files",
       "color": "SDYIUD8Jk00SOVxazfzOy"
+    },
+    {
+      "path": "Tools/Reverse Engineering",
+      "color": "-DwvqmFWvBiJ-5fZNdpx6"
+    },
+    {
+      "path": "Tools/Information Gathering",
+      "color": "HbhGCrYBG4dzU7nlX2t9R"
+    },
+    {
+      "path": "Security",
+      "color": "-DwvqmFWvBiJ-5fZNdpx6"
     }
   ]
 }

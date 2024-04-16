@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"b78a873596554f55","type":"group","x":-1840,"y":-1200,"width":1120,"height":1000,"color":"6","label":"Linux"},
 		{"id":"c4d93bc236977dc6","type":"group","x":-1840,"y":-2080,"width":760,"height":740,"color":"5","label":"General"},
-		{"id":"614bb3187c9565d6","type":"file","file":"Cheatsheets/Images/Linux File Permissions. Binary+Octal.png","x":-1320,"y":-1200,"width":400,"height":348},
-		{"id":"0522be08565656f9","type":"file","file":"Cheatsheets/Images/Common TCP-UDP Ports.png","x":-1820,"y":-2059,"width":420,"height":540},
-		{"id":"889bb78e2b2b3e71","type":"file","file":"Cheatsheets/Images/Linux Permissions. RWX.png","x":-1820,"y":-1143,"width":400,"height":234}
+		{"id":"614bb3187c9565d6","type":"file","file":"Images/Linux File Permissions. Binary+Octal.png","x":-1320,"y":-1200,"width":400,"height":348},
+		{"id":"0522be08565656f9","type":"file","file":"Images/Common TCP-UDP Ports.png","x":-1820,"y":-2059,"width":420,"height":540},
+		{"id":"889bb78e2b2b3e71","type":"file","file":"Images/Linux Permissions. RWX.png","x":-1820,"y":-1143,"width":400,"height":234}
 	],
 	"edges":[
 		{"id":"5e8c8c2931ce6105","fromNode":"614bb3187c9565d6","fromSide":"left","toNode":"889bb78e2b2b3e71","toSide":"right","fromEnd":"arrow"}

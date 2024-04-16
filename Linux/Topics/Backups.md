@@ -1,0 +1,1 @@
+Backups are an important part of data security. You create a copy of your important files in case of data loss. However, if not correctly secured, backups might be a way for attackers to do [[Privilege Escalation]]
