@@ -3,11 +3,6 @@
 **Default Usage**
 	`more [file]` 
 
-**OPTIONS**
-- A
-- B
-- C
-
 More command works in Interactive mode
 
 > [!info]

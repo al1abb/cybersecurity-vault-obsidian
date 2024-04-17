@@ -3,11 +3,6 @@
 **Default Usage**
 	`tr [old_chars] [new_chars]` 
 
-**OPTIONS**
-- A
-- B
-- C
-
 #### ROT13 example:
 *A->N,…,Z->M*
 `tr 'A-Za-z' 'N-ZA-Mn-za-m'`

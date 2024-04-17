@@ -5,5 +5,3 @@
 
 **OPTIONS**
 - `-n` = Prevent newline characters
-- B
-- C

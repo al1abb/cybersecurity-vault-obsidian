@@ -5,5 +5,3 @@
 
 **OPTIONS**
 - `-a` = Display all hosts
-- B
-- C

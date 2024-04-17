@@ -10,7 +10,7 @@
     {
       "id": "NKzEUZFc2n-ygKlKF-a0X",
       "name": "Web",
-      "value": "#1abc9c"
+      "value": "#01b792"
     },
     {
       "id": "ShC1nraTfw1X4NP_bRPkx",
@@ -55,35 +55,35 @@
   ],
   "fileColors": [
     {
-      "path": "Tools/Information Gathering/Network Scanning & Enumeration",
+      "path": "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration",
       "color": "HbhGCrYBG4dzU7nlX2t9R"
     },
     {
-      "path": "Tools/Web App Analysis & Enumeration",
+      "path": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration",
       "color": "NKzEUZFc2n-ygKlKF-a0X"
     },
     {
-      "path": "Tools/Privilege Escalation",
+      "path": "Pentesting/Tools/Privilege Escalation",
       "color": "ShC1nraTfw1X4NP_bRPkx"
     },
     {
-      "path": "Tools/Exploitation & Payload Generation",
+      "path": "Pentesting/Tools/Exploitation & Payload Generation",
       "color": "9Nwlb8sUM-q4Km-LSRIpn"
     },
     {
-      "path": "Tools/Password Cracking",
+      "path": "Pentesting/Tools/Password Cracking",
       "color": "rLbDSpEJo_H7xo6qpA5fl"
     },
     {
-      "path": "Tools/Wireless Attacks",
+      "path": "Pentesting/Tools/Wireless Attacks",
       "color": "t-j8z6j0CyiBTx_PtNvxe"
     },
     {
-      "path": "Tools/Informative Resources",
-      "color": "-5n5f98H0HQBOtlYGh-HN"
+      "path": "Informative Resources",
+      "color": "HbhGCrYBG4dzU7nlX2t9R"
     },
     {
-      "path": "Tools/Privilege Escalation/Linuxprivchecker.md",
+      "path": "Pentesting/Tools/Privilege Escalation/Linuxprivchecker.md",
       "color": "ShC1nraTfw1X4NP_bRPkx"
     },
     {
@@ -119,20 +119,24 @@
       "color": "SDYIUD8Jk00SOVxazfzOy"
     },
     {
-      "path": "Files",
+      "path": "General/Files",
       "color": "SDYIUD8Jk00SOVxazfzOy"
     },
     {
-      "path": "Tools/Reverse Engineering",
+      "path": "Pentesting/Tools/Reverse Engineering",
       "color": "-DwvqmFWvBiJ-5fZNdpx6"
     },
     {
-      "path": "Tools/Information Gathering",
+      "path": "Pentesting/Tools/Information Gathering",
       "color": "HbhGCrYBG4dzU7nlX2t9R"
     },
     {
       "path": "Security",
       "color": "-DwvqmFWvBiJ-5fZNdpx6"
+    },
+    {
+      "path": "Cryptography",
+      "color": "4iU8xL0QpvAUMpZMnnV-4"
     }
   ]
 }

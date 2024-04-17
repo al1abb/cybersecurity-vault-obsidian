@@ -1,1 +1,0 @@
-Privilege escalation is a way for an attacker to get more or different access to your computer.

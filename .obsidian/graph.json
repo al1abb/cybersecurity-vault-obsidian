@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 5211635
       }
+    },
+    {
+      "query": "path:Security  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": true,

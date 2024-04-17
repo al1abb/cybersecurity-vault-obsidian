@@ -2,8 +2,3 @@
 
 **Default Usage**
 	`strings [file_name]` 
-
-**OPTIONS**
-- A
-- B
-- C

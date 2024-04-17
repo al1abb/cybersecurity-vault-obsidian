@@ -25,9 +25,35 @@
         },
         {
           "type": "group",
-          "ctime": 1713290443489,
-          "items": [],
-          "title": "Files"
+          "ctime": 1713030808494,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1713030808494,
+              "path": "Informative Resources/Hacktricks.xyz.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1713030808494,
+              "path": "Informative Resources/Payloads All The Things.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Informative Resources"
+        },
+        {
+          "type": "group",
+          "ctime": 1713369455310,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1713369503565,
+              "path": "Cryptography/Public-Key Cryptography.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Cryptography"
         },
         {
           "type": "group",
@@ -37,235 +63,235 @@
         },
         {
           "type": "group",
-          "ctime": 1713028687283,
+          "ctime": 1713367661169,
           "items": [
             {
-              "type": "file",
-              "ctime": 1713028691852,
-              "path": "Tools/All Useful Tools.md",
-              "subpath": "#^-"
-            },
-            {
               "type": "group",
-              "ctime": 1713291211098,
-              "items": [
-                {
-                  "type": "group",
-                  "ctime": 1713030808494,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1713030808494,
-                      "path": "Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
-                      "subpath": "#^-"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1713030808494,
-                      "path": "Tools/Information Gathering/Network Scanning & Enumeration/Bettercap.md",
-                      "subpath": "#^-"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1713030808494,
-                      "path": "Tools/Information Gathering/Network Scanning & Enumeration/Wireshark.md",
-                      "subpath": "#^-"
-                    }
-                  ],
-                  "title": "\\\\Network Scanning & Enumeration"
-                }
-              ],
-              "title": "Information Gathering"
-            },
-            {
-              "type": "group",
-              "ctime": 1713030808494,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Web App Analysis & Enumeration/SQLMap.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Web App Analysis & Enumeration/EyeWitness.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Web App Analysis & Enumeration/Whatweb.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Web App Analysis & Enumeration/Beef.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "group",
-                  "ctime": 1713030808494,
-                  "items": [
-                    {
-                      "type": "file",
-                      "ctime": 1713030808494,
-                      "path": "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Gobuster.md",
-                      "subpath": "#^-"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1713030808494,
-                      "path": "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Dirb.md",
-                      "subpath": "#^-"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1713030808494,
-                      "path": "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Wfuzz.md",
-                      "subpath": "#^-"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1713030808494,
-                      "path": "Tools/Web App Analysis & Enumeration/Directory & FIle Enumeration/Ffuf.md",
-                      "subpath": "#^-"
-                    }
-                  ],
-                  "title": "Directory & FIle Enumeration"
-                }
-              ],
-              "title": "Web App Analysis & Enumeration"
-            },
-            {
-              "type": "group",
-              "ctime": 1713030808494,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Privilege Escalation/PEASS-ng (Privilege Escalation Awesome Scripts SUITE).md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Privilege Escalation/LinEnum.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Privilege Escalation/Linuxprivchecker.md",
-                  "subpath": "#^-"
-                }
-              ],
-              "title": "Privilege Escalation"
-            },
-            {
-              "type": "group",
-              "ctime": 1713030808494,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Exploitation & Payload Generation/Weevely.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Exploitation & Payload Generation/Metasploit framework (Msfconsole).md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Exploitation & Payload Generation/Veil.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Exploitation & Payload Generation/Weevely.md",
-                  "subpath": "#^-"
-                }
-              ],
-              "title": "Exploitation & Payload Generation"
-            },
-            {
-              "type": "group",
-              "ctime": 1713030808494,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Password Cracking/John-The-Ripper.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Password Cracking/Hashcat.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Password Cracking/Hydra.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Password Cracking/Crunch.md",
-                  "subpath": "#^-"
-                }
-              ],
-              "title": "Password Cracking"
-            },
-            {
-              "type": "group",
-              "ctime": 1713030808494,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1713034138327,
-                  "path": "Tools/Wireless Attacks/Aircrack-ng Suite.md",
-                  "subpath": "#^-"
-                }
-              ],
-              "title": "Wireless Attacks"
-            },
-            {
-              "type": "group",
-              "ctime": 1713030808494,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Informative Resources/Hacktricks.xyz.md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1713030808494,
-                  "path": "Tools/Informative Resources/Payloads All The Things.md",
-                  "subpath": "#^-"
-                }
-              ],
-              "title": "Informative Resources"
-            },
-            {
-              "type": "group",
-              "ctime": 1713291211098,
+              "ctime": 1713367736455,
               "items": [],
-              "title": "Reverse Engineering"
+              "title": "Methodology"
+            },
+            {
+              "type": "group",
+              "ctime": 1713028687283,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1713028691852,
+                  "path": "Pentesting/Tools/All Useful Tools.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1713291211098,
+                  "items": [
+                    {
+                      "type": "group",
+                      "ctime": 1713030808494,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1713030808494,
+                          "path": "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1713030808494,
+                          "path": "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/Bettercap.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1713030808494,
+                          "path": "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/Wireshark.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "\\\\Network Scanning & Enumeration"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1713030808494,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1713030808494,
+                          "path": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1713030808494,
+                          "path": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/EyeWitness.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1713030808494,
+                          "path": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Whatweb.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1713030808494,
+                          "path": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Beef.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "group",
+                          "ctime": 1713030808494,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1713030808494,
+                              "path": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Gobuster.md",
+                              "subpath": "#^-"
+                            },
+                            {
+                              "type": "file",
+                              "ctime": 1713030808494,
+                              "path": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Dirb.md",
+                              "subpath": "#^-"
+                            },
+                            {
+                              "type": "file",
+                              "ctime": 1713030808494,
+                              "path": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Wfuzz.md",
+                              "subpath": "#^-"
+                            },
+                            {
+                              "type": "file",
+                              "ctime": 1713030808494,
+                              "path": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Ffuf.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "Directory & FIle Enumeration"
+                        }
+                      ],
+                      "title": "\\\\Web App Analysis & Enumeration"
+                    }
+                  ],
+                  "title": "Information Gathering"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1713030808494,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Exploitation & Payload Generation/Weevely.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Exploitation & Payload Generation/Metasploit framework (Msfconsole).md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Exploitation & Payload Generation/Veil.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Exploitation & Payload Generation/Weevely.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Exploitation & Payload Generation"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1713030808494,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Privilege Escalation/PEASS-ng (Privilege Escalation Awesome Scripts SUITE).md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Privilege Escalation/LinEnum.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Privilege Escalation/Linuxprivchecker.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Privilege Escalation"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1713030808494,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Password Cracking/John-The-Ripper.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Password Cracking/Hashcat.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Password Cracking/Hydra.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1713030808494,
+                      "path": "Pentesting/Tools/Password Cracking/Crunch.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Password Cracking"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1713030808494,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1713034138327,
+                      "path": "Pentesting/Tools/Wireless Attacks/Aircrack-ng Suite.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Wireless Attacks"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1713291211098,
+                  "items": [],
+                  "title": "Reverse Engineering"
+                }
+              ],
+              "title": "Tools"
+            },
+            {
+              "type": "group",
+              "ctime": 1713367736455,
+              "items": [],
+              "title": "Methodology"
             }
           ],
-          "title": "Tools"
+          "title": "Pentesting"
         },
         {
           "type": "group",
@@ -459,12 +485,6 @@
                     {
                       "type": "file",
                       "ctime": 1713290537272,
-                      "path": "Linux/Commands/File Operations/more.md",
-                      "subpath": "#^-"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1713290537272,
                       "path": "Linux/Commands/File Operations/mv.md",
                       "subpath": "#^-"
                     },
@@ -559,9 +579,15 @@
         },
         {
           "type": "group",
-          "ctime": 1713290516689,
+          "ctime": 1713368357345,
           "items": [],
-          "title": "Templates"
+          "title": "General"
+        },
+        {
+          "type": "group",
+          "ctime": 1713367661169,
+          "items": [],
+          "title": "Assets"
         }
       ],
       "title": "sortspec"
