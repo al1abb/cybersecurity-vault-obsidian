@@ -107,7 +107,7 @@ In this example, you can retrieve the contents of the `users` table by submitt
 In order to perform this attack, you need to know that there is a table called `users` with two columns called `username` and `password`. Without this information, you would have to guess the names of the tables and columns. All modern databases provide ways to examine the database structure, and determine what tables and columns they contain.
 
 ---
-### Retrieving multiple values within a single column
+## Retrieving multiple values within a single column
 In some cases the query in the previous example may only return a single column.
 
 You can retrieve multiple values together within this single column by concatenating the values together. You can include a separator to let you distinguish the combined values. 
