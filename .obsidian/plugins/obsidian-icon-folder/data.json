@@ -65,5 +65,13 @@
   "Security/Web/Vulnerabilities": "📁",
   "Security/Web/Bypasses": "📁",
   "Cryptography": "📁",
-  "Pentesting/Attack Techniques": "📁"
+  "Pentesting/Attack Techniques": "📁",
+  "Security/Web/Vulnerabilities/Server Side Vulnerabilities": "📁",
+  "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication": "📁",
+  "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation": "📁",
+  "Windows": "📁",
+  "Windows/Commands": "📁",
+  "Windows/Commands/System Management": "📁",
+  "Windows/Commands/Networking": "📁",
+  "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)": "📁"
 }

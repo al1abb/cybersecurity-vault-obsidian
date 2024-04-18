@@ -18,6 +18,23 @@
             }
           },
           {
+            "id": "56364346b37080c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
+                "viewState": {
+                  "x": -1021.1928208733484,
+                  "y": 703.5425142350721,
+                  "zoom": -1.7386126848081345
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "ec5ca47e1fd66934",
             "type": "leaf",
             "state": {
@@ -42,19 +59,31 @@
             }
           },
           {
-            "id": "e5a51c70af1eb9fe",
+            "id": "034c61528f2735d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Web/Bypasses/exif_imagetype bypass.md",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Vertical Privilege Escalation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0d4e0320bec3da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Web/Bypasses/exif_imagetype bypass.md",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Web/Bypasses/exif_imagetype bypass.md",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Web/Bypasses/exif_imagetype bypass.md"
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md"
               }
             }
           },
@@ -198,55 +227,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5a51c70af1eb9fe",
+  "active": "e0d4e0320bec3da0",
   "lastOpenFiles": [
-    "Security/Web/Vulnerabilities/Command Injection Vulnerability.md",
-    "Security/Web/Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
-    "Security/Web/Vulnerabilities/XSS (Cross Site Scripting).md",
-    "Security/Web/Vulnerabilities/SQLi (SQL Injection).md",
-    "Linux/Commands/Networking/arp.md",
-    "Security/MITM/DNS Spoofing.md",
-    "Security/MITM/ARP Spoofing.md",
-    "Cryptography/Public-Key Cryptography.md",
-    "Pentesting/Attack Techniques/CSA (Client Side Attacks).md",
-    "Pentesting/Attack Techniques/SSA (Server Side Attacks).md",
-    "Pentesting/Attack Techniques",
-    "Security/Web/Bypasses",
-    "Linux/Topics/SUID.md",
-    "Security/Web/Vulnerabilities",
-    "Security/Privilege Escalation.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/EyeWitness.md",
-    "Linux/Commands/Networking/ping.md",
-    "Linux/Files/etc-passwd.md",
-    "Linux/Topics/OpenSSL.md",
-    "Linux/Files/Archive File.md",
-    "Linux/Topics/Bash Scripting.md",
-    "Linux/Topics/Variables.md",
-    "Linux/Topics/Linux Permissions.md",
-    "Linux/Commands/Networking/curl.md",
-    "General/Files/git (directory).md",
-    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/Wireshark.md",
-    "Linux/Commands/Text Processing/more.md",
-    "Security/Web/Vulnerabilities/File Upload Vulnerabilities.md",
-    "Linux/Commands/Networking/ifconfig.md",
-    "Untitled.canvas",
-    "Assets/Images/DNS.png",
-    "General",
-    "Assets/Images",
-    "Pentesting/Methodology",
-    "Pentesting",
-    "Assets/Images/ARP Spoofing Attack.png",
-    "Pasted image 20240416224454.png",
-    "Assets/Images/ARP Protocol.png",
-    "Security/MITM",
-    "Pentesting/Tools/Information Gathering",
-    "Security/Web",
-    "Linux/Commands/Untitled.canvas",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Assets/Images/Linux File Permissions. Binary+Octal.png",
-    "Assets/Images/Linux Permissions. RWX.png",
-    "Assets/Images/Common TCP-UDP Ports.png",
-    "Pasted image 20240413165202.png",
-    "Common TCP-UDP ports.png"
+    "Assets/Images/DNS.png",
+    "Assets/Images/ARP Protocol.png",
+    "Assets/Images/ARP Spoofing Attack.png",
+    "Assets/Images/Linux/Linux Permissions. RWX.png",
+    "Assets/Images/Web",
+    "Assets/Images/Linux",
+    "Assets/Images/Web/SQLi/dns-lookup-with-data-exfiltration.png",
+    "Assets/Images/Web/SQLi/dns-lookup.png",
+    "Assets/Images/Web/SQLi/conditional-time-delays.png",
+    "Assets/Images/Web/SQLi/time-delays.png",
+    "Assets/Images/Web/SQLi/batched(stacked)-queries.png",
+    "Assets/Images/Web/SQLi/batched(stacked)-queries.png",
+    "Assets/Images/Web/SQLi",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Vertical Privilege Escalation.md",
+    "Security/Web/Bypasses/exif_imagetype bypass.md",
+    "Pentesting/Tools/Reverse Engineering/GDB.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Horizontal Privilege Escalation.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication/Brute Force Attacks.md",
+    "Security/Web/Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
+    "Windows/Commands/System Management/tasklist.md",
+    "Linux/Commands/System Management/ps.md",
+    "Windows/Commands/Networking/netstat.md",
+    "Linux/Commands/Networking/netstat.md",
+    "Windows/Commands/Networking/ipconfig.md",
+    "Linux/Commands/Networking/ifconfig.md",
+    "Windows/Commands/System Management/ver.md",
+    "Windows/Commands/Networking",
+    "Linux/Commands/System Management/uname.md",
+    "Windows/Commands/System Management/whoami.md",
+    "Linux/Commands/System Management/whoami.md",
+    "Windows/Commands/System Management",
+    "Windows/Commands",
+    "Windows",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
+    "Security/Web/Vulnerabilities/Command Injection Vulnerability.md",
+    "Code Injection Vulnerabilities.md",
+    "Security/Web/Vulnerabilities/Code Injection Vulnerabilities.md",
+    "Security/Web/Vulnerabilities/File Upload Vulnerabilities.md",
+    "Security/Web/Vulnerabilities/Local File Inclusion.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication",
+    "Untitled.canvas",
+    "Linux/Commands/Untitled.canvas"
   ]
 }
