@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": -1021.1928208733484,
-                  "y": 703.5425142350721,
-                  "zoom": -1.7386126848081345
+                  "x": -1472.8211911246037,
+                  "y": 1717.8804344579398,
+                  "zoom": -0.07854850843992489
                 }
               },
               "pinned": true
@@ -71,7 +71,19 @@
             }
           },
           {
-            "id": "e0d4e0320bec3da0",
+            "id": "53244dc8f0455ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f66eab31b6f2e17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,11 +239,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0d4e0320bec3da0",
+  "active": "3f66eab31b6f2e17",
   "lastOpenFiles": [
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
+    "Linux/Commands/Text Processing/wc.md",
+    "Linux/Commands/Text Processing/tr.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Vertical Privilege Escalation.md",
+    "Informative Resources/CyberChef.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication/Username Enumeration.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication/Brute Force Attacks.md",
     "Assets/Images/DNS.png",
     "Assets/Images/ARP Protocol.png",
     "Assets/Images/ARP Spoofing Attack.png",
@@ -246,11 +264,9 @@
     "Assets/Images/Web/SQLi/batched(stacked)-queries.png",
     "Assets/Images/Web/SQLi",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Vertical Privilege Escalation.md",
     "Security/Web/Bypasses/exif_imagetype bypass.md",
     "Pentesting/Tools/Reverse Engineering/GDB.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Horizontal Privilege Escalation.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication/Brute Force Attacks.md",
     "Security/Web/Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
     "Windows/Commands/System Management/tasklist.md",
@@ -269,10 +285,6 @@
     "Windows",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
     "Security/Web/Vulnerabilities/Command Injection Vulnerability.md",
-    "Code Injection Vulnerabilities.md",
-    "Security/Web/Vulnerabilities/Code Injection Vulnerabilities.md",
-    "Security/Web/Vulnerabilities/File Upload Vulnerabilities.md",
-    "Security/Web/Vulnerabilities/Local File Inclusion.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication",
     "Untitled.canvas",

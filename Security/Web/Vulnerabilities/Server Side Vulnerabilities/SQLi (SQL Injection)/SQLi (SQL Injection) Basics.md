@@ -87,3 +87,4 @@ SELECT * FROM users WHERE username = 'administrator'--' AND password = ''
 This query returns the user whose `username` is `administrator` and successfully logs the attacker in as that user.
 
 #security/web
+#security/web/sql  
