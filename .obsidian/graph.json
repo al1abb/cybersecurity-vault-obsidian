@@ -1,14 +1,14 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Tools  ",
+      "query": "path:Pentesting  ",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -18,22 +18,22 @@
       "query": "path:Linux  ",
       "color": {
         "a": 1,
-        "rgb": 5211635
+        "rgb": 8030975
       }
     },
     {
-      "query": "path:Security  ",
+      "query": "path:Security ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.00472727272727,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.996,
+  "lineSizeMultiplier": 0.996,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,

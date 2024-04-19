@@ -6,7 +6,7 @@ Horizontal privilege escalation attacks may use similar types of exploit methods
 
 If an attacker modifies the `id` parameter value to that of another user, they might gain access to another user's account page, and the associated data and functions.
 
-> [!NOTE]
+> [!NOTE] IDOR Vulnerability
 > This is an example of an [[IDOR (Insecure Direct Object Reference)]] vulnerability. This type of vulnerability arises where user-controller parameter values are used to access resources or functions directly.
 
 In some applications, the exploitable parameter does not have a predictable value. For example, instead of an incrementing number, an application might use globally unique identifiers (GUIDs) to identify users. This may prevent an attacker from guessing or predicting another user's identifier. However, the GUIDs belonging to other users might be disclosed elsewhere in the application where users are referenced, such as user messages or reviews.

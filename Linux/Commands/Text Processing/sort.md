@@ -6,3 +6,5 @@
 **OPTIONS**
 - `-r` = Sort reverse
 - `-n` = Sort numerically (string numerical value)
+
+#linux/commands/text 

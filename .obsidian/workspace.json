@@ -26,52 +26,16 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": -1472.8211911246037,
-                  "y": 1717.8804344579398,
-                  "zoom": -0.07854850843992489
+                  "x": -161.52231871344517,
+                  "y": 425.1524260138917,
+                  "zoom": -0.3828388067519398
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "ec5ca47e1fd66934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0c36f73c8c4e911",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Topics/Linux Permissions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "034c61528f2735d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Vertical Privilege Escalation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53244dc8f0455ce1",
+            "id": "a67d6f406f7b4d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,19 +47,43 @@
             }
           },
           {
-            "id": "3f66eab31b6f2e17",
+            "id": "8aa3fa7991493b40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/UNION SQLi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96b15a157b1eb4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/Error-based SQLi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "648d3fb1b92027b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md"
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md"
               }
             }
           },
@@ -217,8 +205,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,20 +223,40 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f66eab31b6f2e17",
+  "active": "648d3fb1b92027b9",
   "lastOpenFiles": [
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/Error-based SQLi.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/UNION Attacks.md",
-    "Linux/Commands/Text Processing/wc.md",
-    "Linux/Commands/Text Processing/tr.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Vertical Privilege Escalation.md",
-    "Informative Resources/CyberChef.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication/Username Enumeration.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication/Brute Force Attacks.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/UNION SQLi.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Linux/Topics/Backups.md",
+    "Security/Web/Vulnerabilities/Local File Inclusion.md",
+    "Security/Web/Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Horizontal Privilege Escalation.md",
+    "Security/MITM/DNS Spoofing.md",
+    "Security/MITM/ARP Spoofing.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band (Classic).md",
+    "Privilege Escalation.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection).md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band (Classic)/In-band (Classic).md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Server Side Vulnerabilities.md",
+    "Security/Web/Vulnerabilities/Vulnerabilities.md",
+    "Security/Web/Bypasses/Bypasses.md",
+    "Security/Web/Web.md",
+    "Security/MITM/MITM.md",
+    "Security/Security.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Privilege Escalation.md",
+    "Security.md",
+    "Security/MITM/_about_.md",
+    "Security/_about_.md",
+    "Security/Web.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)",
+    "Excalidraw",
     "Assets/Images/DNS.png",
     "Assets/Images/ARP Protocol.png",
     "Assets/Images/ARP Spoofing Attack.png",
@@ -264,29 +271,10 @@
     "Assets/Images/Web/SQLi/batched(stacked)-queries.png",
     "Assets/Images/Web/SQLi",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)",
-    "Security/Web/Bypasses/exif_imagetype bypass.md",
-    "Pentesting/Tools/Reverse Engineering/GDB.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Horizontal Privilege Escalation.md",
-    "Security/Web/Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
-    "Windows/Commands/System Management/tasklist.md",
-    "Linux/Commands/System Management/ps.md",
-    "Windows/Commands/Networking/netstat.md",
-    "Linux/Commands/Networking/netstat.md",
-    "Windows/Commands/Networking/ipconfig.md",
-    "Linux/Commands/Networking/ifconfig.md",
-    "Windows/Commands/System Management/ver.md",
     "Windows/Commands/Networking",
-    "Linux/Commands/System Management/uname.md",
-    "Windows/Commands/System Management/whoami.md",
-    "Linux/Commands/System Management/whoami.md",
     "Windows/Commands/System Management",
     "Windows/Commands",
     "Windows",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
-    "Security/Web/Vulnerabilities/Command Injection Vulnerability.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication",
     "Untitled.canvas",
     "Linux/Commands/Untitled.canvas"
   ]

@@ -5,3 +5,5 @@
 
 **OPTIONS**
 - `-l` = Print the newline counts
+
+#linux/commands/text 

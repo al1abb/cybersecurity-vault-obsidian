@@ -6,3 +6,5 @@
 **OPTIONS**
 - `-v` = Filter out / Opposite grep
 - `-i` = Perform case insensitive matching
+
+#linux/commands/text 

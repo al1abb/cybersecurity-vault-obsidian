@@ -25,3 +25,5 @@ This causes the application to read from the following file path:
 The sequence `../` is valid within a file path, and means to step up one level in the directory structure. The three consecutive `../` sequences step up from `/var/www/images/` to the filesystem root, and so the file that is actually read is:
 
 `/etc/passwd`
+
+#security/web 

@@ -4,5 +4,7 @@
   "custom-sort",
   "file-explorer-note-count",
   "obsidian-file-color",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "folder-note-plugin"
 ]

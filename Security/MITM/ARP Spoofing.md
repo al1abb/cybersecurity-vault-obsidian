@@ -20,7 +20,7 @@ ARP Spoofing happens when we get in between the victim and the router device by 
 1) Clients accept responses even if they did not send a request
 2) Clients trust response without any form of verification
 
-> [!warning]
+> [!warning] Port forwarding
 > Port forwarding has to be enabled in a machine to make sure the requests flow to router
 
 #security/mitm 

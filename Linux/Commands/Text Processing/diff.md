@@ -2,3 +2,5 @@
 
 **Default Usage**
 	`diff [file1] [file2]` 
+
+#linux/commands/text 
