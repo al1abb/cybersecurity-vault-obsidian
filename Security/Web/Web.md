@@ -17,6 +17,5 @@ type: folder_brief_live
 | [[Broken Access Control]]                   |                           |
 | [[Path Traversal]]                          |                           |
 | [[XXE]]                                     |                           |
-|                                             |                           |
-|                                             |                           |
-|                                             |                           |
+| [[Authentication]]                          |                           |
+
