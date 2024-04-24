@@ -10,7 +10,7 @@ type: folder_brief_live
 | [[tr]]                                              | [[bashrc]]       | [[OpenSSL]]                      |
 | [[echo]]                                            | [[etc-passwd]]   | [[Port Scanning]]                |
 | [[sort]]                                            | [[Link]]         | [[Linux Permissions]]            |
-| [[uniq]]                                            |                  | [[Operators]]                    |
+| [[uniq]]                                            |                  | [[Linux/Topics/Operators]]                    |
 | [[grep]]                                            |                  | [[Cronjobs]]                     |
 | [[diff]]                                            |                  | [[Bash Scripting]]               |
 | [[less]]                                            |                  | [[Vim]]                          |
