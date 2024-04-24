@@ -73,46 +73,55 @@
             }
           },
           {
-            "id": "13ea6c4af1976654",
+            "id": "dd10fbc996791b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informative Resources/Crackstation.md",
+                "file": "Security/Web/Web.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96579f3fbc711b68",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
-                "viewState": {
-                  "x": 1239.5,
-                  "y": 359.9999999999999,
-                  "zoom": -2.6834250604700687
-                }
-              }
-            }
-          },
-          {
-            "id": "7528697fb98b83a2",
+            "id": "209cd314260828e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Web/Bypasses/exif_imagetype bypass.md",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb57710e8ba70b18",
+            "id": "aedc85390163a760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dba543a1c7a4f061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "640183210b27507f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "evil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,13 +275,17 @@
   "active": "f25302eb021a1101",
   "lastOpenFiles": [
     "Security/Web/Web.md",
-    "Security/Web/Bypasses/exif_imagetype bypass.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Pentesting/Tools/All Useful Tools.md",
-    "Informative Resources/Crackstation.md",
+    "Security/Security.md",
     "Windows/Windows.md",
-    "Linux/Files/Archive File.md",
+    "Cryptography/Cryptography.md",
     "Linux/Linux.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Pentesting/Tools/Privilege Escalation/Evil-winrm.md",
+    "Pentesting/Tools/All Useful Tools.md",
+    "Security/Web/Bypasses/exif_imagetype bypass.md",
+    "Informative Resources/Crackstation.md",
+    "Linux/Files/Archive File.md",
     "Linux/Commands/Commands.md",
     "Linux/Commands/Text Processing/Text Processing.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/UNION SQLi.md",
@@ -281,17 +294,12 @@
     "Windows/Commands/System Management/System Management.md",
     "Windows/Commands/Networking/Networking.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Out-of-band (OAST).md",
-    "Cryptography/Cryptography.md",
     "Informative Resources/RevShells.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
     "Security/Web/Vulnerabilities/XXE.md",
     "Pentesting/Tools/Password Cracking/Hashcat.md",
     "Pentesting/Tools/Password Cracking/John-The-Ripper.md",
     "Linux/Topics/MOTD.md",
-    "Linux/Commands/Networking/nc (Netcat).md",
-    "Linux/Commands/System Management/lsb_release.md",
-    "Linux/Commands/File Operations/mkdir.md",
-    "Informative Resources/Pentest Book.md",
     "Pasted image 20240421204033.png",
     "Assets/Images/Web/SQLi/SQLi DNS Lookup using XXE.png",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)",
