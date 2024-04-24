@@ -15,17 +15,45 @@
       }
     },
     {
-      "query": "path:Linux  ",
-      "color": {
-        "a": 1,
-        "rgb": 8030975
-      }
-    },
-    {
       "query": "path:Security ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 16761095
+      }
+    },
+    {
+      "query": "path:Windows  ",
+      "color": {
+        "a": 1,
+        "rgb": 2201331
+      }
+    },
+    {
+      "query": "path:Linux/Commands  ",
+      "color": {
+        "a": 1,
+        "rgb": 1993762
+      }
+    },
+    {
+      "query": "path:Linux/Files  ",
+      "color": {
+        "a": 1,
+        "rgb": 6732650
+      }
+    },
+    {
+      "query": "path:Linux/Topics  ",
+      "color": {
+        "a": 1,
+        "rgb": 4894799
+      }
+    },
+    {
+      "query": "path:Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 5025616
       }
     }
   ],
@@ -40,5 +68,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.4639681647783383,
-  "close": true
+  "close": false
 }

