@@ -62,6 +62,9 @@ All queries combined using a UNION, INTERSECT or EXCEPT operator must have an eq
 > [!INFO] Why use NULL
 > We use `NULL` as the values returned from the injected `SELECT` query because the data types in each column must be compatible between the original and the injected queries. `NULL` is convertible to every common data type, so it maximizes the chance that the payload will succeed when the column count is correct.
 
+> [!important] Use FROM dual
+> In Oracle DBs, you must always specify a FROM value. You can use `FROM dual` for it!
+
 > [!attention] NullPointerException
 > The effect on the HTTP response depends on the application's code. If you are lucky, you will see some additional content within the response, such as an extra row on an HTML table. Otherwise, the null values might trigger a different error, such as a `NullPointerException`. In the worst case, the response might look the same as a response caused by an incorrect number of nulls. This would make this method ineffective.
 

@@ -21,5 +21,3 @@ If you're able to successfully upload a web shell, you effectively have full con
 > ```http
 > GET /example/exploit.php?command=id HTTP/1.1
 > ```
-
-#security/web 

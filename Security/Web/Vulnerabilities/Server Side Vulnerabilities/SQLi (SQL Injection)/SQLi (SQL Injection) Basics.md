@@ -108,7 +108,7 @@ These are taken from MySQL database. Others might work differently
 | SELECT 2^2;                                | 0                                                    | 2=0010; 2 XOR 2 = 0000 = 0                                                                                                                                                                                                                        |
 | SELECT !1;                                 | 0                                                    | The `!` operator is the logical NOT operator. `!1` evaluates to `0` because `1` is considered `true`, and logical NOT of `true` is `false`, represented as `0`.                                                                                   |
 | SELECT ~1;                                 | 18446744073709551614<br>(Or another very big number) | The `~` operator is the bitwise NOT operator. <br>`1` in binary is represented as `00000000000000000000000000000001`. <br>Bitwise NOT of this binary value is `11111111111111111111111111111110`, <br>which in decimal is `18446744073709551614`. |
-| SELECT * FROM users WHERE username='admin' | Returns multiple users                               | Imagine you have a database table called users. It has 4 users. Note the spaces after names:<br>'admin', 'admin ', 'admin  ', 'admin   '<br>When selecting, SQL will show all of them<br>To fix this, exact match has to be turned ON             |
+| SELECT * FROM users WHERE username='admin' | Might return multiple users in a specific case       | Imagine you have a database table called users. It has 4 users. Note the spaces after names:<br>'admin', 'admin ', 'admin  ', 'admin   '<br>When selecting, SQL will show all of them<br>To fix this, exact match has to be turned ON             |
 
 ---
 ## SQLi Types
@@ -131,6 +131,7 @@ These are taken from MySQL database. Others might work differently
 
 3) [[Blind SQLi]] (Boolean and Time based)
 4) [[Out-of-band (OAST)]]
+5) [[Other Contexts SQLi]] (XML parameters in http)
 
 ---
 ## SQL Clauses and Functions
@@ -174,5 +175,32 @@ These are taken from MySQL database. Others might work differently
 |     **TRIM()**      |                Removes leading and trailing spaces from a string.                |     |  **CONCAT_WS()**   |                        Concatenates strings with a separator.                         |
 |      **IF()**       |                      Returns a value based on a condition.                       |     |                    |                                                                                       |
 
-
 Check out [this video](https://www.youtube.com/watch?v=WtHnT73NaaQ) by mdisec for SQL Injection 101
+
+---
+## Mitigation
+
+You can prevent most instances of SQL injection using parameterized queries instead of string concatenation within the query. These parameterized queries are also know as "prepared statements".
+
+The following code is vulnerable to SQL injection because the user input is concatenated directly into the query:
+
+```js
+String query = "SELECT * FROM products WHERE category = '"+ input + "'"; 
+Statement statement = connection.createStatement(); 
+ResultSet resultSet = statement.executeQuery(query);
+```
+
+You can rewrite this code in a way that prevents the user input from interfering with the query structure:
+
+```js
+PreparedStatement statement = connection.prepareStatement("SELECT * FROM products WHERE category = ?"); 
+statement.setString(1, input); 
+ResultSet resultSet = statement.executeQuery();
+```
+
+You can use parameterized queries for any situation where untrusted input appears as data within the query, including the `WHERE` clause and values in an `INSERT` or `UPDATE` statement. They can't be used to handle untrusted input in other parts of the query, such as table or column names, or the `ORDER BY` clause. Application functionality that places untrusted data into these parts of the query needs to take a different approach, such as:
+
+- Whitelisting permitted input values.
+- Using different logic to deliver the required behavior.
+
+For a parameterized query to be effective in preventing SQL injection, the string that is used in the query must always be a hard-coded constant. It must never contain any variable data from any origin. Do not be tempted to decide case-by-case whether an item of data is trusted, and continue using string concatenation within the query for cases that are considered safe. It's easy to make mistakes about the possible origin of data, or for changes in other code to taint trusted data.

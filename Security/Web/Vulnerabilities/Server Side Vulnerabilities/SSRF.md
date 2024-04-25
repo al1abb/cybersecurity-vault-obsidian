@@ -51,6 +51,3 @@ In some cases, the application server is able to interact with back-end systems 
 > Content-Length: 118 
 > stockApi=http://192.168.0.68/admin
 > ```
-
-
-#security/web 

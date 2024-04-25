@@ -2,7 +2,9 @@ Horizontal privilege escalation occurs if a user is able to gain access to resou
 
 Horizontal privilege escalation attacks may use similar types of exploit methods to vertical privilege escalation. For example, a user might access their own account page using the following URL:
 
-`https://insecure-website.com/myaccount?id=123`
+```http
+https://insecure-website.com/myaccount?id=123
+```
 
 If an attacker modifies the `id` parameter value to that of another user, they might gain access to another user's account page, and the associated data and functions.
 
@@ -16,6 +18,8 @@ Often, a horizontal privilege escalation attack can be turned into a vertical pr
 
 An attacker might be able to gain access to another user's account page using the parameter tampering technique already described for horizontal privilege escalation:
 
-`https://insecure-website.com/myaccount?id=456`
+```http
+https://insecure-website.com/myaccount?id=456
+```
 
 If the target user is an application administrator, then the attacker will gain access to an administrative account page. This page might disclose the administrator's password or provide a means of changing it, or might provide direct access to privileged functionality.

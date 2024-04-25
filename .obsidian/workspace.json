@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": 875.8919676566578,
-                  "y": 1166.2587298100805,
-                  "zoom": -0.3828388067519398
+                  "x": -232.90874808786754,
+                  "y": 1907.1415861788362,
+                  "zoom": 0.22574178987209004
                 }
               },
               "pinned": true
@@ -54,6 +54,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "General/Topics/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4518bfd967f9663d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
                 "mode": "source",
                 "source": false
@@ -61,19 +73,19 @@
             }
           },
           {
-            "id": "e3803554a8b4d197",
+            "id": "563248a5b84cf142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Topics/Operators.md",
+                "file": "General/Topics/SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+                "file": "General/Topics/SQL.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+                "file": "General/Topics/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md"
+                "file": "General/Topics/SQL.md"
               }
             }
           },
@@ -218,36 +230,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85bad7029738144f",
+  "active": "563248a5b84cf142",
   "lastOpenFiles": [
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/UNION SQLi.md",
-    "General/Topics/Operators.md",
-    "Linux/Topics/Vim.md",
+    "Informative Resources/Hacktricks.xyz.md",
+    "Informative Resources/Payloads All The Things.md",
+    "Informative Resources/GTFOBins.md",
+    "Informative Resources/CyberChef.md",
+    "Informative Resources/Pentest Book.md",
+    "Informative Resources/Crackstation.md",
+    "Informative Resources/RevShells.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Server Side Vulnerabilities.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "General/Topics/SQL.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/In-band SQLi (Classic).md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection).md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Other Contexts SQLi.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
+    "Security/Web/Vulnerabilities/XXE.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
     "Pentesting/Tools/All Useful Tools.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/Error-based SQLi.md",
-    "General/Topics/SQL.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
-    "Linux/Linux.md",
-    "General/Untitled.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/UNION SQLi.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Horizontal Privilege Escalation.md",
+    "Security/Web/Vulnerabilities/Path Traversal.md",
+    "Security/Web/Vulnerabilities/Broken Access Control.md",
+    "Security/Web/Vulnerabilities/Remote File Inclusion.md",
+    "Security/Web/Vulnerabilities/Local File Inclusion.md",
+    "Assets/Images/Web/SQLi/second-order-sqli.png",
     "General/Topics",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Gobuster.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/amass.md",
-    "Security/Web/Web.md",
-    "Windows/Windows.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication.md",
-    "Security/Security.md",
-    "Cryptography/Cryptography.md",
-    "Pentesting/Tools/Privilege Escalation/Evil-winrm.md",
-    "Security/Web/Bypasses/exif_imagetype bypass.md",
-    "Informative Resources/Crackstation.md",
-    "Linux/Files/Archive File.md",
-    "Linux/Commands/Commands.md",
-    "Linux/Commands/Text Processing/Text Processing.md",
-    "Windows/Commands/Commands.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
-    "Windows/Commands/System Management/System Management.md",
-    "Windows/Commands/Networking/Networking.md",
     "Pasted image 20240421204033.png",
     "Assets/Images/Web/SQLi/SQLi DNS Lookup using XXE.png",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)",
@@ -261,7 +274,6 @@
     "Assets/Images/Web/SQLi/dns-lookup-with-data-exfiltration.png",
     "Assets/Images/Web/SQLi/dns-lookup.png",
     "Assets/Images/Web/SQLi/conditional-time-delays.png",
-    "Assets/Images/Web/SQLi/time-delays.png",
     "Assets/Images/Web/SQLi",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)",
     "Windows/Commands/Networking",

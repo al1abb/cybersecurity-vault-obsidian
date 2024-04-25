@@ -4,21 +4,21 @@
 		{"id":"05c7bc1dbef591d0","type":"group","x":-1840,"y":-20,"width":3263,"height":2161,"color":"3","label":"SQLi"},
 		{"id":"b78a873596554f55","type":"group","x":-1840,"y":-1200,"width":1120,"height":1000,"color":"6","label":"Linux"},
 		{"id":"c4d93bc236977dc6","type":"group","x":-1840,"y":-2080,"width":760,"height":740,"color":"5","label":"General"},
-		{"id":"65c12427cb679cc4","type":"file","file":"Assets/Images/Web/SQLi/conditional-errors.png","x":-733,"y":0,"width":1010,"height":380},
 		{"id":"0522be08565656f9","type":"file","file":"Assets/Images/Common TCP-UDP Ports.png","x":-1820,"y":-2059,"width":420,"height":540},
 		{"id":"9f262a5705c5a49d","type":"file","file":"Assets/Images/Web/SQLi/dns-lookup-with-data-exfiltration.png","x":360,"y":680,"width":1043,"height":945},
 		{"id":"f3f7c61f29043fda","type":"file","file":"Assets/Images/Web/SQLi/time-delays.png","x":-733,"y":1520,"width":893,"height":274},
 		{"id":"f3b62b6c6c0aff19","type":"file","file":"Assets/Images/Web/SQLi/batched(stacked)-queries.png","x":-733,"y":880,"width":1010,"height":627},
 		{"id":"548ac7bc802d6a3c","type":"file","file":"Assets/Images/Web/SQLi/extract-data-via-visible-err-messages.png","x":-733,"y":380,"width":1010,"height":486},
 		{"id":"3ecc5bb183b048d5","type":"file","file":"Assets/Images/Web/SQLi/dns-lookup.png","x":360,"y":0,"width":949,"height":660},
-		{"id":"889bb78e2b2b3e71","type":"file","file":"Assets/Images/Linux/Linux Permissions. RWX.png","x":-1820,"y":-1143,"width":400,"height":234},
-		{"id":"614bb3187c9565d6","type":"file","file":"Assets/Images/Linux/Linux File Permissions. Binary+Octal.png","x":-1320,"y":-1200,"width":400,"height":348},
 		{"id":"5e2a5ffa7c40be2a","type":"file","file":"Assets/Images/Web/SQLi/conditional-time-delays.png","x":-733,"y":1820,"width":893,"height":301},
+		{"id":"65c12427cb679cc4","type":"file","file":"Assets/Images/Web/SQLi/conditional-errors.png","x":-733,"y":0,"width":1010,"height":380},
 		{"id":"01983f68f176fafb","type":"file","file":"Assets/Images/Web/SQLi/db-contents.png","x":-1820,"y":1440,"width":1019,"height":514},
 		{"id":"facadc51a4a66c66","type":"file","file":"Assets/Images/Web/SQLi/db-version.png","x":-1820,"y":1080,"width":1020,"height":345},
 		{"id":"12313d8c0ccf97a3","type":"file","file":"Assets/Images/Web/SQLi/comments.png","x":-1820,"y":640,"width":1000,"height":432},
 		{"id":"7a23af2b8030d7e6","type":"file","file":"Assets/Images/Web/SQLi/substring.png","x":-1820,"y":360,"width":940,"height":284},
-		{"id":"7c3d50ecb6a461a8","type":"file","file":"Assets/Images/Web/SQLi/string-concatenation.png","x":-1820,"y":0,"width":800,"height":347}
+		{"id":"7c3d50ecb6a461a8","type":"file","file":"Assets/Images/Web/SQLi/string-concatenation.png","x":-1820,"y":0,"width":800,"height":347},
+		{"id":"614bb3187c9565d6","type":"file","file":"Assets/Images/Linux/Linux File Permissions. Binary+Octal.png","x":-1320,"y":-1200,"width":400,"height":348},
+		{"id":"889bb78e2b2b3e71","type":"file","file":"Assets/Images/Linux/Linux Permissions. RWX.png","x":-1820,"y":-1143,"width":400,"height":234}
 	],
 	"edges":[
 		{"id":"5e8c8c2931ce6105","fromNode":"614bb3187c9565d6","fromSide":"left","toNode":"889bb78e2b2b3e71","toSide":"right","fromEnd":"arrow"}
