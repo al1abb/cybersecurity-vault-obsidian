@@ -74,5 +74,6 @@
   "Windows/Commands/Networking": "📁",
   "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)": "📁",
   "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)": "📁",
-  "General/Topics": "📁"
+  "General/Topics": "📁",
+  "Excalidraw": "📁"
 }
