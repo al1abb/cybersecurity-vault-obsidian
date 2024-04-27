@@ -10,6 +10,10 @@ You can detect SQL injection manually using a systematic set of tests against ev
 - Boolean conditions such as `OR 1=1` and `OR 1=2`, and look for differences in the application's responses.
 - Payloads designed to trigger time delays when executed within a SQL query, and look for differences in the time taken to respond.
 - OAST payloads designed to trigger an out-of-band network interaction when executed within a SQL query, and monitor any resulting interactions.
+
+> [!tip] Detect SQLi
+> Best way to detect SQLi vulnerability is through Time-based blind SQLi
+
 ---
 ## SQL Injections in different parts of the query
 Most SQL injection vulnerabilities occur within the `WHERE` clause of a `SELECT` query. Most experienced testers are familiar with this type of SQL injection.
@@ -132,6 +136,7 @@ These are taken from MySQL database. Others might work differently
 3) [[Blind SQLi]] (Boolean and Time based)
 4) [[Out-of-band (OAST)]]
 5) [[Other Contexts SQLi]] (XML parameters in http)
+6) [[Second Order SQLi]] (Stored SQLi)
 
 ---
 ## SQL Clauses and Functions

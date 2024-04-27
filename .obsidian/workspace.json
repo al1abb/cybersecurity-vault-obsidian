@@ -73,7 +73,29 @@
             }
           },
           {
-            "id": "563248a5b84cf142",
+            "id": "8071f4bbded0cd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa3fd405c0bb9ad2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Modern Web Workflow.md"
+              }
+            }
+          },
+          {
+            "id": "406de37f2379eec2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -83,12 +105,12 @@
             }
           },
           {
-            "id": "8071f4bbded0cd49",
+            "id": "ac69d40fe7889e46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+                "file": "Security/MITM/ARP Spoofing.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+                "file": "Excalidraw/Modern Web Workflow.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+                "file": "Excalidraw/Modern Web Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md"
+                "file": "Excalidraw/Modern Web Workflow.md"
               }
             }
           },
@@ -240,22 +262,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8071f4bbded0cd49",
+  "active": "fa3fd405c0bb9ad2",
   "lastOpenFiles": [
     "Excalidraw/Cookie and Session drawing.md",
+    "Excalidraw/Modern Web Workflow.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+    "Security/MITM/ARP Spoofing.md",
+    "Security/MITM/MITM.md",
+    "Excalidraw/Untitled.md",
+    "Informative Resources/Payloads All The Things.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Ffuf.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Second Order SQLi.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection).md",
     "General/Topics/SQL.md",
     "Informative Resources/Hacktricks.xyz.md",
-    "Informative Resources/Payloads All The Things.md",
     "Informative Resources/GTFOBins.md",
     "Informative Resources/CyberChef.md",
     "Informative Resources/Pentest Book.md",
     "Informative Resources/Crackstation.md",
     "Informative Resources/RevShells.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Server Side Vulnerabilities.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/In-band SQLi (Classic).md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection).md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Other Contexts SQLi.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
     "Security/Web/Vulnerabilities/XXE.md",
@@ -263,12 +291,6 @@
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Pentesting/Tools/All Useful Tools.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/UNION SQLi.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Horizontal Privilege Escalation.md",
-    "Security/Web/Vulnerabilities/Path Traversal.md",
-    "Security/Web/Vulnerabilities/Broken Access Control.md",
     "Assets/Images/Web/SQLi/second-order-sqli.png",
     "General/Topics",
     "Pasted image 20240421204033.png",
