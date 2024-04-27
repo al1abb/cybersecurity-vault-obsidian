@@ -115,9 +115,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3945733294a711cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Modern Web Workflow.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 338.51103591918945
   },
   "right": {
     "id": "01d8e73c817c4b3b",
@@ -262,10 +272,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa3fd405c0bb9ad2",
+  "active": "3945733294a711cd",
   "lastOpenFiles": [
-    "Excalidraw/Cookie and Session drawing.md",
     "Excalidraw/Modern Web Workflow.md",
+    "Excalidraw/Cookie and Session drawing.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
     "Security/MITM/ARP Spoofing.md",
     "Security/MITM/MITM.md",
