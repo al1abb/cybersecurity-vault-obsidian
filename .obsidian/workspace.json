@@ -73,50 +73,6 @@
             }
           },
           {
-            "id": "8071f4bbded0cd49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa3fd405c0bb9ad2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Modern Web Workflow.md"
-              }
-            }
-          },
-          {
-            "id": "406de37f2379eec2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Cookie and Session drawing.md"
-              }
-            }
-          },
-          {
-            "id": "ac69d40fe7889e46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/MITM/ARP Spoofing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3945733294a711cd",
             "type": "leaf",
             "state": {
@@ -127,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -274,18 +230,23 @@
   },
   "active": "3945733294a711cd",
   "lastOpenFiles": [
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "General/Topics/SQL.md",
     "Excalidraw/Modern Web Workflow.md",
-    "Excalidraw/Cookie and Session drawing.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Pentesting/Tools/All Useful Tools.md",
+    "Linux/Topics/ASCII.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Second Order SQLi.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Other Contexts SQLi.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/BurpSuite.md",
+    "Excalidraw/Cookie and Session drawing.md",
     "Security/MITM/ARP Spoofing.md",
     "Security/MITM/MITM.md",
     "Excalidraw/Untitled.md",
     "Informative Resources/Payloads All The Things.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Ffuf.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Second Order SQLi.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection).md",
-    "General/Topics/SQL.md",
     "Informative Resources/Hacktricks.xyz.md",
     "Informative Resources/GTFOBins.md",
     "Informative Resources/CyberChef.md",
@@ -294,13 +255,7 @@
     "Informative Resources/RevShells.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Server Side Vulnerabilities.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/In-band SQLi (Classic).md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Other Contexts SQLi.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
-    "Security/Web/Vulnerabilities/XXE.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
-    "Cheatsheets/Cheatsheet Canvas.canvas",
     "Assets/Images/Web/SQLi/second-order-sqli.png",
     "General/Topics",
     "Pasted image 20240421204033.png",
