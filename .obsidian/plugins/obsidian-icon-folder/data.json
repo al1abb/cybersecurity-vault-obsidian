@@ -75,5 +75,7 @@
   "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)": "📁",
   "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)": "📁",
   "General/Topics": "📁",
-  "Excalidraw": "📁"
+  "Excalidraw": "📁",
+  "Security/Web/Vulnerabilities/Client Side Vulnerabilities": "📁",
+  "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS": "📁"
 }

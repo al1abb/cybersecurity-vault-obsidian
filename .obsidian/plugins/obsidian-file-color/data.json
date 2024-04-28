@@ -137,6 +137,14 @@
     {
       "path": "Linux/Files",
       "color": "SDYIUD8Jk00SOVxazfzOy"
+    },
+    {
+      "path": "Security/Web/Vulnerabilities/Server Side Vulnerabilities",
+      "color": "9Nwlb8sUM-q4Km-LSRIpn"
+    },
+    {
+      "path": "Security/Web/Vulnerabilities/Client Side Vulnerabilities",
+      "color": "SDYIUD8Jk00SOVxazfzOy"
     }
   ]
 }

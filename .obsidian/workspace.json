@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": -232.90874808786754,
-                  "y": 1907.1415861788362,
-                  "zoom": 0.22574178987209004
+                  "x": -1120.86450258608,
+                  "y": -2163.21244587193,
+                  "zoom": -0.2171611932480596
                 }
               },
               "pinned": true
@@ -73,17 +73,53 @@
             }
           },
           {
-            "id": "3945733294a711cd",
+            "id": "8eecdd51345e7918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Topics/XML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89b6e25ae1ea76c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/XXE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a79e0b40182d3bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66b4b151163db005",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Modern Web Workflow.md"
+                "file": "Excalidraw/XSS (Cross-Site Scripting).md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -149,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Modern Web Workflow.md",
+                "file": "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Modern Web Workflow.md",
+                "file": "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Modern Web Workflow.md"
+                "file": "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md"
               }
             }
           },
@@ -228,34 +264,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3945733294a711cd",
+  "active": "a79e0b40182d3bc3",
   "lastOpenFiles": [
-    "Cheatsheets/Cheatsheet Canvas.canvas",
-    "General/Topics/SQL.md",
+    "Excalidraw/XSS (Cross-Site Scripting).md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/DOM XSS.md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/Self XSS.md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/Stored XSS.md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/Reflected XSS.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/XXE.md",
+    "Security/MITM/MITM.md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
     "Excalidraw/Modern Web Workflow.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities",
+    "Excalidraw/Cookie and Session drawing.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+    "General/Topics/XML.md",
+    "General/Topics/SQL.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Other Contexts SQLi.md",
+    "Security/Web/Web.md",
     "Pentesting/Tools/All Useful Tools.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Assets/Images/Networking/OSI Model 2.png",
+    "Assets/Images/Networking/OSI Model.png",
+    "Assets/Images/Networking/Common TCP-UDP Ports.png",
+    "Assets/Images/Networking",
+    "Pasted image 20240428122814.png",
+    "Cheatsheets/Cheatsheets.md",
     "Linux/Topics/ASCII.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Second Order SQLi.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Other Contexts SQLi.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/BurpSuite.md",
-    "Excalidraw/Cookie and Session drawing.md",
     "Security/MITM/ARP Spoofing.md",
-    "Security/MITM/MITM.md",
     "Excalidraw/Untitled.md",
     "Informative Resources/Payloads All The Things.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Ffuf.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection).md",
-    "Informative Resources/Hacktricks.xyz.md",
-    "Informative Resources/GTFOBins.md",
-    "Informative Resources/CyberChef.md",
-    "Informative Resources/Pentest Book.md",
-    "Informative Resources/Crackstation.md",
-    "Informative Resources/RevShells.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Server Side Vulnerabilities.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/In-band SQLi (Classic).md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
     "Assets/Images/Web/SQLi/second-order-sqli.png",
     "General/Topics",
     "Pasted image 20240421204033.png",
@@ -265,17 +309,10 @@
     "Assets/Images/DNS.png",
     "Assets/Images/ARP Protocol.png",
     "Assets/Images/ARP Spoofing Attack.png",
-    "Assets/Images/Linux/Linux Permissions. RWX.png",
     "Assets/Images/Web",
     "Assets/Images/Linux",
-    "Assets/Images/Web/SQLi/dns-lookup-with-data-exfiltration.png",
-    "Assets/Images/Web/SQLi/dns-lookup.png",
-    "Assets/Images/Web/SQLi/conditional-time-delays.png",
     "Assets/Images/Web/SQLi",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)",
-    "Windows/Commands/Networking",
-    "Windows/Commands/System Management",
-    "Windows/Commands",
     "Untitled.canvas",
     "Linux/Commands/Untitled.canvas"
   ]

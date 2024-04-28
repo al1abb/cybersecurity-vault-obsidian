@@ -6,7 +6,7 @@ type: folder_brief_live
 
 | Topics                                      | Bypasses                  |
 | ------------------------------------------- | ------------------------- |
-| [[XSS (Cross Site Scripting)]]              | [[exif_imagetype bypass]] |
+| [[Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting)]]              | [[exif_imagetype bypass]] |
 | [[IDOR (Insecure Direct Object Reference)]] |                           |
 | [[SQLi (SQL Injection) Basics]]             |                           |
 | [[OS Command Injection]]                    |                           |
@@ -18,4 +18,5 @@ type: folder_brief_live
 | [[Path Traversal]]                          |                           |
 | [[XXE]]                                     |                           |
 | [[Authentication]]                          |                           |
+| [[CSRF]]                                    |                           |
 
