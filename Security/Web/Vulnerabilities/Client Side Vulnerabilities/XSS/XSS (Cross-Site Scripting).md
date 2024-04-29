@@ -154,5 +154,11 @@ OUTPUT ENCODING
 Also look at [OWASP XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
 
 Check out these important videos by mdisec to learn more:
-1)  [XSS Part 1](https://youtu.be/NFD3vZ-lIgI?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
-2) [XSS Part 2]()
+1) [XSS Part 1](https://youtu.be/NFD3vZ-lIgI?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
+2) [XSS Part 2](https://youtu.be/xXbDhyKo9B8)
+3) [Solving XSS expert lab DOM clobbering](https://youtu.be/Cy9qGc_A_Ic?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
+
+XSS Exercises:
+1) Google XSS Challenge
+2) [Public Firing Range](https://public-firing-range.appspot.com/) (Study XSS Contexts here)
+3) [Prompt.ml](https://prompt.ml/0)

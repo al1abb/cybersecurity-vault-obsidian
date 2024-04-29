@@ -20,4 +20,10 @@ Drop a table:
 DROP TABLE [table1]
 ```
 
+Helper functions:
 
+> [!info] `current_schema()`
+> Can be used like this `table_schema=current_schema()`
+> ```sql
+> current_schema()
+> ```

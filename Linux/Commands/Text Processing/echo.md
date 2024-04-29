@@ -5,5 +5,3 @@
 
 **OPTIONS**
 - `-n` = Prevent newline characters
-
-#linux/commands/text 

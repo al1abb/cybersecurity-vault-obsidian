@@ -14,6 +14,20 @@ You can detect SQL injection manually using a systematic set of tests against ev
 > [!tip] Detect SQLi
 > Best way to detect SQLi vulnerability is through Time-based blind SQLi
 
+> [!info] Quickly detecting SQLi
+> Using AND 1=1 trick
+> ```sql
+> -- This is injected below: ' AND '1'='1
+> 
+> SELECT * FROM x WHERE y = 'Accessories' AND '1'='1'
+> ```
+
+> [!info] Quick check for comment
+> Get DB type from comment quickly
+> ```sql
+> SELECT * FROM x WHERE y = 'Accessories' AND 1=1--
+> ```
+
 ---
 ## SQL Injections in different parts of the query
 Most SQL injection vulnerabilities occur within the `WHERE` clause of a `SELECT` query. Most experienced testers are familiar with this type of SQL injection.
