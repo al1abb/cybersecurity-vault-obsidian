@@ -49,17 +49,18 @@
             }
           },
           {
-            "id": "c952bba7543c598c",
+            "id": "fcab661b70623055",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/SSL, HSTS.md"
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/SSL, HSTS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/SSL, HSTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/SSL, HSTS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,37 +201,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de8af916a27f894f",
+  "active": "f25302eb021a1101",
   "lastOpenFiles": [
-    "Excalidraw/SSL, HSTS.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
+    "Excalidraw/Deserialization.md",
+    "Linux/Linux.md",
+    "Linux/Topics/Substitution Command.md",
+    "General/Topics/Serialization.md",
     "Pentesting/Tools/All Useful Tools.md",
+    "Linux/Commands/Networking/nslookup.md",
+    "Windows/Windows.md",
+    "Windows/Commands/Networking/nslookup.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+    "Excalidraw/SSL, HSTS.md",
     "Cheatsheets/Cheatsheets.md",
     "Security/Web/Web.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Server Side Vulnerabilities.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Privilege Escalation.md",
-    "Excalidraw/Deserialization.md",
     "Excalidraw/Modern Web Workflow.md",
     "Excalidraw/Cookie and Session drawing.md",
-    "Linux/Linux.md",
     "General/Topics/SQL.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
-    "Windows/Windows.md",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/metagoofil.md",
-    "General/Topics/Serialization.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/subfinder.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/httpx.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/katana.md",
-    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/DOM XSS.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/XXE.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Vertical Privilege Escalation.md",
     "Assets/Images/Web/Serialization PHP user class.png",
     "Pasted image 20240430084215.png",
-    "Excalidraw/XSS (Cross-Site Scripting).md",
-    "General/Topics/XML.md",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities",
     "Assets/Images/Networking/OSI Model 2.png",

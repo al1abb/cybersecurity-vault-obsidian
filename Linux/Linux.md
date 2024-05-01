@@ -23,7 +23,7 @@ type: folder_brief_live
 | [[Linux/Commands/System Management/whoami\|whoami]] |                  | [[SUID]]                         |
 | [[printenv]]                                        |                  | [[Backups]]                      |
 | [[git (command)]]                                   |                  | [[MOTD]]                         |
-| [[jobs]]                                            |                  |                                  |
+| [[jobs]]                                            |                  | [[Substitution Command]]         |
 | [[ps]]                                              |                  |                                  |
 | [[lsb_release]]                                     |                  |                                  |
 | [[wget]]                                            |                  |                                  |
@@ -50,3 +50,4 @@ type: folder_brief_live
 | [[tar]]                                             |                  |                                  |
 | [[xxd]]                                             |                  |                                  |
 | [[base64]]                                          |                  |                                  |
+| [[Linux/Commands/Networking/nslookup\|nslookup]]    |                  |                                  |
