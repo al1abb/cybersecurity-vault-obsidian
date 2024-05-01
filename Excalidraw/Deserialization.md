@@ -1724,34 +1724,31 @@ y85vAKoT: [[Serialization]]
 			"lineHeight": 1.15
 		},
 		{
-			"id": "y85vAKoT",
 			"type": "embeddable",
-			"x": 400.50058572690534,
-			"y": 22.897558422500424,
-			"width": 480.14687435000315,
-			"height": 332.23082144107394,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 960,
+			"versionNonce": 1796926421,
+			"isDeleted": false,
+			"id": "y85vAKoT",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"roundness": null,
+			"angle": 0,
+			"x": 407.4509684675187,
+			"y": -7.833627123632141,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 748.934635570641,
+			"height": 1030.5541264080919,
 			"seed": 34505,
-			"version": 445,
-			"versionNonce": 1116437783,
-			"updated": 1714451705461,
-			"isDeleted": false,
 			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [],
+			"updated": 1714549337021,
 			"link": "[[Serialization]]",
 			"locked": false,
-			"scale": [
-				1,
-				1
-			],
 			"customData": {
 				"mdProps": {
 					"useObsidianDefaults": false,
@@ -1764,7 +1761,11 @@ y85vAKoT: [[Serialization]]
 					"borderOpacity": 0,
 					"filenameVisible": false
 				}
-			}
+			},
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -1782,10 +1783,10 @@ y85vAKoT: [[Serialization]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 418.8674658232775,
-		"scrollY": 270.4613147878137,
+		"scrollX": 254.21088726857465,
+		"scrollY": 332.2807500535799,
 		"zoom": {
-			"value": 0.8884483736771291
+			"value": 0.903403225526423
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

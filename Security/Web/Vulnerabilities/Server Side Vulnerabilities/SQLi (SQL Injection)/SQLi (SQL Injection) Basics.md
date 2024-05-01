@@ -2,7 +2,33 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 
 In some situations, an attacker can escalate a SQL injection attack to compromise the underlying server or other back-end infrastructure. It can also enable them to perform denial-of-service attacks.
 
+---
+## SQLi Types
+
+1) [[UNION SQLi]] 
+
+> [!important] UNION SQLi example
+> Basic UNION SELECT query. Check [[UNION SQLi]] page for more
+> ```sql
+> UNION SELECT 1,2,3...
+> ```
+
+2) [[Error-based SQLi]]
+
+> [!important] Error-based SQLi example
+> Write a custom subquery using extractvalue function and return needed data in error
+> ```sql
+> SELECT EXTRACTVALUE(rand(), concat(1, (YOUR_SUBQUERY_HERE)))
+> ```
+
+3) [[Blind SQLi]] (Boolean and Time based)
+4) [[Out-of-band (OAST)]]
+5) [[Other Contexts SQLi]] (XML parameters in http)
+6) [[Second Order SQLi]] (Stored SQLi)
+
+---
 ## ⭐ How to detect SQLi vulnerabilities
+
 You can detect SQL injection manually using a systematic set of tests against every entry point in the application. To do this, you would typically submit:
 
 - The single quote character `'` and look for errors or other anomalies.
@@ -129,30 +155,6 @@ These are taken from MySQL database. Others might work differently
 | SELECT * FROM users WHERE username='admin' | Might return multiple users in a specific case       | Imagine you have a database table called users. It has 4 users. Note the spaces after names:<br>'admin', 'admin ', 'admin  ', 'admin   '<br>When selecting, SQL will show all of them<br>To fix this, exact match has to be turned ON             |
 
 ---
-## SQLi Types
-
-1) [[UNION SQLi]] 
-
-> [!important] UNION SQLi example
-> Basic UNION SELECT query. Check [[UNION SQLi]] page for more
-> ```sql
-> UNION SELECT 1,2,3...
-> ```
-
-2) [[Error-based SQLi]]
-
-> [!important] Error-based SQLi example
-> Write a custom subquery using extractvalue function and return needed data in error
-> ```sql
-> SELECT EXTRACTVALUE(rand(), concat(1, (YOUR_SUBQUERY_HERE)))
-> ```
-
-3) [[Blind SQLi]] (Boolean and Time based)
-4) [[Out-of-band (OAST)]]
-5) [[Other Contexts SQLi]] (XML parameters in http)
-6) [[Second Order SQLi]] (Stored SQLi)
-
----
 ## SQL Clauses and Functions
 
 |       Clause        |                                   Description                                    |     |      Function      |                                      Description                                      |
@@ -194,8 +196,6 @@ These are taken from MySQL database. Others might work differently
 |     **TRIM()**      |                Removes leading and trailing spaces from a string.                |     |  **CONCAT_WS()**   |                        Concatenates strings with a separator.                         |
 |      **IF()**       |                      Returns a value based on a condition.                       |     |                    |                                                                                       |
 
-Check out [this video](https://www.youtube.com/watch?v=WtHnT73NaaQ) by mdisec for SQL Injection 101
-
 ---
 ## Mitigation
 
@@ -223,3 +223,8 @@ You can use parameterized queries for any situation where untrusted input appear
 - Using different logic to deliver the required behavior.
 
 For a parameterized query to be effective in preventing SQL injection, the string that is used in the query must always be a hard-coded constant. It must never contain any variable data from any origin. Do not be tempted to decide case-by-case whether an item of data is trusted, and continue using string concatenation within the query for cases that are considered safe. It's easy to make mistakes about the possible origin of data, or for changes in other code to taint trusted data.
+
+---
+## Related links
+
+Check out [this video](https://www.youtube.com/watch?v=WtHnT73NaaQ) by mdisec for SQL Injection 101

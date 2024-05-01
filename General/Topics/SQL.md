@@ -27,3 +27,4 @@ Helper functions:
 > ```sql
 > current_schema()
 > ```
+

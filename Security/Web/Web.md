@@ -4,19 +4,24 @@
 type: folder_brief_live
 ```
 
-| Topics                                      | Bypasses                  |
-| ------------------------------------------- | ------------------------- |
-| [[Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting)]]              | [[exif_imagetype bypass]] |
-| [[IDOR (Insecure Direct Object Reference)]] |                           |
-| [[SQLi (SQL Injection) Basics]]             |                           |
-| [[OS Command Injection]]                    |                           |
-| [[File Upload Vulnerabilities]]             |                           |
-| [[SSRF]]                                    |                           |
-| [[Local File Inclusion]]                    |                           |
-| [[Remote File Inclusion]]                   |                           |
-| [[Broken Access Control]]                   |                           |
-| [[Path Traversal]]                          |                           |
-| [[XXE]]                                     |                           |
-| [[Authentication]]                          |                           |
-| [[CSRF]]                                    |                           |
+| Topics                                                                                        |
+| --------------------------------------------------------------------------------------------- |
+| [[SQLi (SQL Injection) Basics]]                                                               |
+| [[IDOR (Insecure Direct Object Reference)]]                                                   |
+| [[CSRF]]                                                                                      |
+| [[XXE]]                                                                                       |
+| [[XSS (Cross-Site Scripting)]]                                                                |
+| [[Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization\|Deserialization]] |
+| [[OS Command Injection]]                                                                      |
+| [[File Upload Vulnerabilities]]                                                               |
+| [[SSRF]]                                                                                      |
+| [[Local File Inclusion]]                                                                      |
+| [[Remote File Inclusion]]                                                                     |
+| [[Broken Access Control]]                                                                     |
+| [[Path Traversal]]                                                                            |
+| [[Authentication]]                                                                            |
+| [[Privilege Escalation]]                                                                      |
 
+| **Bypasses**              |
+| ------------------------- |
+| [[exif_imagetype bypass]] |

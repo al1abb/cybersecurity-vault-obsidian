@@ -124,6 +124,12 @@ then you can try doing this:
 > [!attention] `javascript:alert(1)`
 > `javascript:alert(1)` only works in `href` attribute of `<a>` tag
 
+## Data: Text/javascript protocol
+
+```http
+data:text/javascript,alert(1)
+```
+
 ## XSS types:
 
 1) [[Reflected XSS]]

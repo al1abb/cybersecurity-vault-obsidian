@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": -1120.86450258608,
-                  "y": -2163.21244587193,
-                  "zoom": -0.2171611932480596
+                  "x": -361.57868556847734,
+                  "y": 26.334288736802705,
+                  "zoom": -2.3471932814321637
                 }
               },
               "pinned": true
@@ -49,53 +49,17 @@
             }
           },
           {
-            "id": "85bad7029738144f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Topics/SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66b4b151163db005",
+            "id": "c952bba7543c598c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Deserialization.md"
-              }
-            }
-          },
-          {
-            "id": "f2dafe0294358adb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf43e3642860837b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Topics/Serialization.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/SSL, HSTS.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.51103591918945
+    "width": 327.51103591918945
   },
   "right": {
     "id": "01d8e73c817c4b3b",
@@ -161,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
+                "file": "Excalidraw/SSL, HSTS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
+                "file": "Excalidraw/SSL, HSTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md"
+                "file": "Excalidraw/SSL, HSTS.md"
               }
             }
           },
@@ -240,39 +204,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2dafe0294358adb",
+  "active": "de8af916a27f894f",
   "lastOpenFiles": [
-    "General/Topics/Serialization.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
+    "Excalidraw/SSL, HSTS.md",
+    "Pentesting/Tools/All Useful Tools.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Cheatsheets/Cheatsheets.md",
+    "Security/Web/Web.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Server Side Vulnerabilities.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Privilege Escalation.md",
+    "Excalidraw/Deserialization.md",
+    "Excalidraw/Modern Web Workflow.md",
+    "Excalidraw/Cookie and Session drawing.md",
+    "Linux/Linux.md",
+    "General/Topics/SQL.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
+    "Windows/Windows.md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/metagoofil.md",
+    "General/Topics/Serialization.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/subfinder.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/httpx.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/katana.md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/DOM XSS.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/XXE.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Vertical Privilege Escalation.md",
-    "Excalidraw/Deserialization.md",
-    "Linux/Linux.md",
-    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/DOM XSS.md",
     "Assets/Images/Web/Serialization PHP user class.png",
     "Pasted image 20240430084215.png",
-    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
     "Excalidraw/XSS (Cross-Site Scripting).md",
     "General/Topics/XML.md",
-    "General/Topics/SQL.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/UNION SQLi.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
-    "Linux/Commands/Text Processing/echo.md",
-    "Linux/Commands/Text Processing/tr.md",
-    "Linux/Commands/Text Processing/grep.md",
-    "Linux/Commands/Text Processing/wc.md",
-    "Linux/Commands/File Operations/find.md",
-    "General/Topics/Regex.md",
-    "Linux/Topics/Substitution Command.md",
-    "Linux/Commands/File Operations/rm.md",
-    "Linux/Commands/File Operations/ln.md",
-    "Linux/Commands/Text Processing/tail.md",
-    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/Self XSS.md",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities",
-    "Cheatsheets/Cheatsheet Canvas.canvas",
     "Assets/Images/Networking/OSI Model 2.png",
     "Assets/Images/Networking/OSI Model.png",
     "Assets/Images/Networking/Common TCP-UDP Ports.png",
