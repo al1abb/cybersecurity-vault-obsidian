@@ -14,3 +14,8 @@ https://insecure-website.com/customer_account?customer_number=132355
 Here, the customer number is used directly as a record index in queries that are performed on the back-end database. 
 If no other controls are in place, an attacker can simply modify the `customer_number` value, bypassing access controls to view the records of other customers. 
 This is an example of an IDOR vulnerability leading to horizontal privilege escalation.
+
+---
+## Related links
+
+Check out this [video](https://www.youtube.com/watch?v=TsJ2XPuGe1k) by mdisec to learn more about IDOR

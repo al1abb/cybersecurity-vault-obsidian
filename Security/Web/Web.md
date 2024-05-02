@@ -19,7 +19,7 @@ type: folder_brief_live
 | [[Remote File Inclusion]]                                                                     |
 | [[Broken Access Control]]                                                                     |
 | [[Path Traversal]]                                                                            |
-| [[Authentication]]                                                                            |
+| [[Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication]]                                                                            |
 | [[Privilege Escalation]]                                                                      |
 
 | **Bypasses**              |

@@ -12,4 +12,4 @@ type: folder_brief_live
 | [[Windows/Commands/System Management/whoami\|whoami]] |             |
 | [[ver]]                                               |             |
 | [[tasklist]]                                          |             |
-|                                                       |             |
+| [[Windows/Commands/Networking/nslookup\|nslookup]]    |             |

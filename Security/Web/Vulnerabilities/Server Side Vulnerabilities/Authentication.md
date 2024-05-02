@@ -17,6 +17,9 @@ A brute-force attack is when an attacker uses a system of trial and error to gue
 > [!info]
 > BurpSuite Intruder can be used for brute forcing logins and possibly passwords too
 
+> [!check] X-Forwarded-For Header Bypass for Rate-limiting
+> IP spoofing is possible using X-Forwarded-For HTTP Header. If the website blocks your requests based on IP address, this could be utilized to bypass the rate limiting
+
 Brute-forcing is not always just a case of making completely random guesses at usernames and passwords. By also using basic logic or publicly available knowledge, attackers can fine-tune brute-force attacks to make much more educated guesses. This considerably increases the efficiency of such attacks. Websites that rely on password-based login as their sole method of authenticating users can be highly vulnerable if they do not implement sufficient brute-force protection.
 
 ### Brute Forcing Usernames
@@ -42,3 +45,5 @@ This knowledge of likely credentials and predictable patterns means that brute-f
 At times, the implementation of two-factor authentication is flawed to the point where it can be bypassed entirely.
 
 If the user is first prompted to enter a password, and then prompted to enter a verification code on a separate page, the user is effectively in a "logged in" state before they have entered the verification code. In this case, it is worth testing to see if you can directly skip to "logged-in only" pages after completing the first authentication step. Occasionally, you will find that a website doesn't actually check whether or not you completed the second step before loading the page.
+
+

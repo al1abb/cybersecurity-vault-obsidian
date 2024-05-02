@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": -361.57868556847734,
-                  "y": 26.334288736802705,
-                  "zoom": -2.3471932814321637
+                  "x": 2262.2502208461146,
+                  "y": 1094.1007295617164,
+                  "zoom": -1.4343223864961185
                 }
               },
               "pinned": true
@@ -49,18 +49,29 @@
             }
           },
           {
-            "id": "fcab661b70623055",
+            "id": "11cc3c7f30cfcb21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a47373a935034b5d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Host Header Manipulations.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,8 +137,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Excalidraw/Host Header Manipulations.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -142,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Host Header Manipulations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Host Header Manipulations.md"
+              }
             }
           },
           {
@@ -178,12 +193,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,35 +216,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f25302eb021a1101",
+  "active": "a47373a935034b5d",
   "lastOpenFiles": [
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
+    "Excalidraw/Host Header Manipulations.md",
+    "Excalidraw/Untitled.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/XXE.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
-    "Excalidraw/Deserialization.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+    "Excalidraw/Modern Web Workflow.md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
     "Linux/Linux.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Pentesting/Tools/All Useful Tools.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Security/Web/Web.md",
+    "Excalidraw/Deserialization.md",
+    "Excalidraw/SSL, HSTS.md",
+    "Assets/Templates/Tool Template.md",
+    "Assets/Templates/Overview.md",
+    "Excalidraw/Authentication.md",
+    "Windows/Windows.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
+    "Excalidraw/Cookie and Session drawing.md",
     "Linux/Topics/Substitution Command.md",
     "General/Topics/Serialization.md",
-    "Pentesting/Tools/All Useful Tools.md",
     "Linux/Commands/Networking/nslookup.md",
-    "Windows/Windows.md",
-    "Windows/Commands/Networking/nslookup.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
-    "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
-    "Excalidraw/SSL, HSTS.md",
-    "Cheatsheets/Cheatsheets.md",
-    "Security/Web/Web.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Server Side Vulnerabilities.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Privilege Escalation/Privilege Escalation.md",
-    "Excalidraw/Modern Web Workflow.md",
-    "Excalidraw/Cookie and Session drawing.md",
-    "General/Topics/SQL.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
-    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/metagoofil.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/subfinder.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/httpx.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/katana.md",
     "Assets/Images/Web/Serialization PHP user class.png",
     "Pasted image 20240430084215.png",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",

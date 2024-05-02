@@ -153,6 +153,7 @@ But as there is no class called `MDISEC` it returns an error
 
 This whole thing means you can initiate any existing class within the codebase
 
+---
 ### Very dangerous example
 
 Imagine the user class has a property (variable) called `is_admin` and is set to 0 by default. 
@@ -179,7 +180,7 @@ $payload='O:6:"MDISEC":2:{s:9:"firstname";s:6:"Mehmet";s:8:"lastname";s:4:"INCE"
 ```
 
 ---
-### + Permissions class
+#### + Permissions class
 
 ```php
 class Permissions {
@@ -231,7 +232,7 @@ And this will be your payload to use. When deserialized, this code will use `Per
 `Permission class woke up`
 
 ---
-### + Cache class
+#### + Cache class
 
 ```php
 <?php
@@ -274,4 +275,4 @@ So basically what happened is the following:
 Check out these videos about Deserialization by mdisec:
 1) [Deserialization-Episode-1](https://youtu.be/0Oj8FVDcpwU?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
 2) [Deserialization-Episode-2](https://youtu.be/wvNGCBDbENY?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT)
-3) 
+3) [Deserialization Exploitation](https://www.youtube.com/watch?v=kk43YwA6OFI)
