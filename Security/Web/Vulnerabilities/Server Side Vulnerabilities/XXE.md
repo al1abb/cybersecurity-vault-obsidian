@@ -43,7 +43,7 @@ Here wrong `productId` returns an error with contents of `productId`. Therefore,
 ```
 
 > [!info] Causing SSRF through XXE
-> You can also cause [[SSRF]] by writing localhost after `SYSTEM` operand
+> You can also cause [[Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF]] by writing localhost after `SYSTEM` operand
 
 ---
 #### Reading an XML file using XXE

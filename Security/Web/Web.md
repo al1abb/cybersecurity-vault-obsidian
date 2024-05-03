@@ -14,7 +14,7 @@ type: folder_brief_live
 | [[Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization\|Deserialization]] |
 | [[OS Command Injection]]                                                                      |
 | [[File Upload Vulnerabilities]]                                                               |
-| [[SSRF]]                                                                                      |
+| [[Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF]]                                                                                      |
 | [[Local File Inclusion]]                                                                      |
 | [[Remote File Inclusion]]                                                                     |
 | [[Broken Access Control]]                                                                     |

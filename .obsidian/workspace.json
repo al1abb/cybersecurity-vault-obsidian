@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "56364346b37080c5",
+            "id": "7ee302a1c06feb15",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": 2262.2502208461146,
-                  "y": 1094.1007295617164,
-                  "zoom": -1.4343223864961185
+                  "x": 2159.3382750855562,
+                  "y": 650.4402507936871,
+                  "zoom": -1.4343223864961199
                 }
               },
               "pinned": true
@@ -49,29 +49,49 @@
             }
           },
           {
-            "id": "11cc3c7f30cfcb21",
+            "id": "2fe52949ca305464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
+                "file": "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a47373a935034b5d",
+            "id": "2dde4446591604a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19fc67501c675eda",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Host Header Manipulations.md"
+                "file": "Excalidraw/SSRF.md"
               }
+            }
+          },
+          {
+            "id": "269aa436d91716b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Host Header Manipulations.md",
+                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Host Header Manipulations.md",
+                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Host Header Manipulations.md"
+                "file": "Cheatsheets/Cheatsheet Canvas.canvas"
               }
             }
           },
@@ -216,10 +236,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a47373a935034b5d",
+  "active": "7ee302a1c06feb15",
   "lastOpenFiles": [
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
+    "Excalidraw/SSRF.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
+    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
+    "Pentesting/Tools/All Useful Tools.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/Error-based SQLi.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
+    "Assets/Images/Networking/Insecure Port VS Secure Port.png",
+    "Linux/Linux.md",
+    "Assets/Images/Web/HTTP Status Codes.png",
+    "Excalidraw/SSL, HSTS.md",
+    "Excalidraw/Deserialization.md",
+    "Excalidraw/Authentication.md",
     "Excalidraw/Host Header Manipulations.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
     "Excalidraw/Untitled.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/XXE.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
@@ -227,24 +260,12 @@
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
     "Excalidraw/Modern Web Workflow.md",
-    "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
-    "Linux/Linux.md",
-    "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Pentesting/Tools/All Useful Tools.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/SQLi (SQL Injection) Basics.md",
     "Security/Web/Web.md",
-    "Excalidraw/Deserialization.md",
-    "Excalidraw/SSL, HSTS.md",
     "Assets/Templates/Tool Template.md",
     "Assets/Templates/Overview.md",
-    "Excalidraw/Authentication.md",
     "Windows/Windows.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
     "Excalidraw/Cookie and Session drawing.md",
-    "Linux/Topics/Substitution Command.md",
-    "General/Topics/Serialization.md",
-    "Linux/Commands/Networking/nslookup.md",
     "Assets/Images/Web/Serialization PHP user class.png",
     "Pasted image 20240430084215.png",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
@@ -257,7 +278,6 @@
     "Assets/Images/Web/SQLi/second-order-sqli.png",
     "General/Topics",
     "Pasted image 20240421204033.png",
-    "Assets/Images/Web/SQLi/SQLi DNS Lookup using XXE.png",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)",
     "Excalidraw",
     "Assets/Images/Web",

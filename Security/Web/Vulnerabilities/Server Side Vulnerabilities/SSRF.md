@@ -1,4 +1,8 @@
+## SSRF Basics
+
 Server-side request forgery is a web security vulnerability that allows an attacker to cause the server-side application to make requests to an unintended location.
+
+[[Excalidraw/SSRF|SSRF]] Excalidraw drawing
 
 In a typical SSRF attack, the attacker might cause the server to make a connection to internal-only services within the organization's infrastructure. In other cases, they may be able to force the server to connect to arbitrary external systems. This could leak sensitive data, such as authorization credentials.
 
@@ -52,3 +56,27 @@ In some cases, the application server is able to interact with back-end systems 
 > Content-Length: 118 
 > stockApi=http://192.168.0.68/admin
 > ```
+
+---
+## Blind SSRF
+
+In Blind SSRF, you can't see the response from the web app. Instead, the response can be sent to another service or DB
+
+---
+## Important notes
+
+> [!info] Test an IP range
+> You can use BurpSuite Intruder to test for a range of IP addresses
+> 
+> ```http
+> https://192.168.1.0
+> https://192.168.1.1
+> https://192.168.1.2
+> https://192.168.1.3
+> etc...
+> ```
+
+---
+## Related links
+
+Check out this [video](https://youtu.be/2ONduwyqYUA) by mdisec to learn more
