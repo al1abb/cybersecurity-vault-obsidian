@@ -60,7 +60,7 @@ In some cases, the application server is able to interact with back-end systems 
 ---
 ## Blind SSRF
 
-In Blind SSRF, you can't see the response from the web app. Instead, the response can be sent to another service or DB
+In Blind SSRF, you can't see the response from the web app. Instead, the response is sent to another service or DB
 
 ---
 ## Important notes

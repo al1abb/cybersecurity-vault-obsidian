@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheets/Cheatsheet Canvas.canvas"
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md"
               }
             }
           },
@@ -236,10 +236,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ee302a1c06feb15",
+  "active": "2dde4446591604a7",
   "lastOpenFiles": [
-    "Excalidraw/SSRF.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Excalidraw/SSRF.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
     "Pentesting/Tools/All Useful Tools.md",
