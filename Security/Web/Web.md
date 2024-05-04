@@ -18,7 +18,7 @@ type: folder_brief_live
 | [[Local File Inclusion]]                                                                      |
 | [[Remote File Inclusion]]                                                                     |
 | [[Broken Access Control]]                                                                     |
-| [[Path Traversal]]                                                                            |
+| [[Directory Traversal - Path Traversal]]                                                                            |
 | [[Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication]]                                                                            |
 | [[Privilege Escalation]]                                                                      |
 

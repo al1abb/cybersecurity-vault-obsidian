@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": 2159.3382750855562,
-                  "y": 650.4402507936871,
-                  "zoom": -1.4343223864961199
+                  "x": 2449.290127099025,
+                  "y": 1417.6568629118456,
+                  "zoom": -0.8257417898720899
                 }
               },
               "pinned": true
@@ -49,36 +49,14 @@
             }
           },
           {
-            "id": "2fe52949ca305464",
+            "id": "c523b561b833cfb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
+                "file": "Security/Web/Vulnerabilities/Directory Traversal - Path Traversal.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2dde4446591604a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19fc67501c675eda",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SSRF.md"
               }
             }
           },
@@ -91,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
+                "file": "Security/Web/Vulnerabilities/Directory Traversal - Path Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
+                "file": "Security/Web/Vulnerabilities/Directory Traversal - Path Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md"
+                "file": "Security/Web/Vulnerabilities/Directory Traversal - Path Traversal.md"
               }
             }
           },
@@ -236,11 +214,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dde4446591604a7",
+  "active": "c523b561b833cfb4",
   "lastOpenFiles": [
     "Pentesting/Tools/All Useful Tools.md",
+    "Excalidraw/SSTI.md",
+    "Security/Web/Vulnerabilities/Directory Traversal - Path Traversal.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
+    "Assets/Images/Web/Pasted Image 20240503184538_581.png",
     "Excalidraw/SSRF.md",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS/XSS (Cross-Site Scripting).md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)/Error-based SQLi.md",
@@ -255,7 +237,6 @@
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
     "Excalidraw/Untitled.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/XXE.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Authentication.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/File Upload Vulnerabilities.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
@@ -265,7 +246,6 @@
     "Assets/Templates/Overview.md",
     "Windows/Windows.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/IDOR (Insecure Direct Object Reference).md",
-    "Excalidraw/Cookie and Session drawing.md",
     "Assets/Images/Web/Serialization PHP user class.png",
     "Pasted image 20240430084215.png",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
@@ -277,7 +257,6 @@
     "Pasted image 20240428122814.png",
     "Assets/Images/Web/SQLi/second-order-sqli.png",
     "General/Topics",
-    "Pasted image 20240421204033.png",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/In-band SQLi (Classic)",
     "Excalidraw",
     "Assets/Images/Web",
