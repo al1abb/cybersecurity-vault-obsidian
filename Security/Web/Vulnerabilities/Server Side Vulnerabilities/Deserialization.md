@@ -1,5 +1,7 @@
 This can happen in PHP, Java, .NET, Ruby, Python and maybe more.
 To understand deserialization, first look at [[Serialization]]
+
+---
 ## Code example
 
 Lets say we have these codes

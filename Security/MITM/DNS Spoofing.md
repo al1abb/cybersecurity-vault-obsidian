@@ -5,4 +5,3 @@ When doing MITM attacks (using [[ARP Spoofing]]), you can also redirect users to
 
 ![[DNS.png]]
 
-#security/mitm

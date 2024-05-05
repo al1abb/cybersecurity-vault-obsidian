@@ -12,5 +12,3 @@ The application makes access control decisions based on the submitted value. For
 `https://insecure-website.com/login/home.jsp?admin=true https://insecure-website.com/login/home.jsp?role=1`
 
 This approach is insecure because a user can modify the value and access functionality they're not authorized to, such as administrative functions.
-
-#security/web 
