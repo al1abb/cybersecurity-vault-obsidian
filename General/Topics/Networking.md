@@ -228,7 +228,7 @@ In other words, the IP addresses of all computers on this network start with 192
 ![[Subnet Mask.png]]
 
 ---
-## DNS?
+## DNS
 
 When visiting a site on the Internet, we type an address like www.site.com in the address line of our browser. This is called a domain name. After all, there is an IP address for this domain name. However, since it would be difficult to remember IP addresses, a system called DNS (Domain Name System) was developed to match IP addresses with domain names. 
 

@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "ecabb7dcfdd18fa1",
+            "id": "a6b041837cf3fcf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Topics/Networking.md",
+                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#security/mitm",
+                "query": "sqlma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Topics/Networking.md",
+                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Topics/Networking.md",
+                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Topics/Networking.md"
+                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md"
               }
             }
           },
@@ -206,21 +207,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecabb7dcfdd18fa1",
+  "active": "a6b041837cf3fcf9",
   "lastOpenFiles": [
-    "General/Topics/Operators.md",
+    "Pentesting/Tools/All Useful Tools.md",
+    "Linux/Linux.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Linux/Commands/Text Processing/strings.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
+    "General/Topics/Networking.md",
+    "Windows/Windows.md",
+    "General/Topics/SQL.md",
     "General/Topics/XML.md",
+    "General/Topics/Operators.md",
     "General/Topics/Regex.md",
     "General/Topics/Serialization.md",
-    "General/Topics/Networking.md",
-    "General/Topics/SQL.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
     "Security/Web/Bypasses/exif_imagetype bypass.md",
     "Security/MITM/DNS Spoofing.md",
     "Security/MITM/ARP Spoofing.md",
     "Security/MITM/MITM.md",
     "Assets/Images/Networking/TCP-IPv4 Settings Windows.png",
-    "Pentesting/Tools/All Useful Tools.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Gobuster.md",
     "Assets/Images/Networking/Subnet Mask.png",
     "Assets/Images/Networking/IP address classes.png",
@@ -229,8 +235,6 @@
     "Assets/Images/Networking/Router.png",
     "Assets/Images/Networking/Switch.png",
     "Pentesting/Tools/Password Cracking/hashid.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
-    "Cheatsheets/Cheatsheet Canvas.canvas",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
     "Assets/Images/Networking/OSI vs TCP-IP.png",
     "Assets/Images/Networking/TCP-IP Layers.png",
@@ -242,10 +246,6 @@
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
     "Security/Web/Vulnerabilities/Local File Inclusion.md",
     "Security/Web/Vulnerabilities/Remote File Inclusion.md",
-    "Security/Web/Vulnerabilities/Broken Access Control.md",
-    "Excalidraw/Deserialization.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/IDOR.md",
-    "Excalidraw/SSTI.md",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities",
     "Assets/Images/Networking",

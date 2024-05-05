@@ -2,5 +2,3 @@
 
 **Default Usage**
 	`strings [file_name]` 
-
-#linux/commands/text 
