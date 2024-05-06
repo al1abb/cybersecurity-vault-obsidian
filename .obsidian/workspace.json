@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": -1369.3409262425375,
-                  "y": 3822.755300508006,
-                  "zoom": 0.08712910506395488
+                  "x": 3542.0069048316263,
+                  "y": 582.8703847612239,
+                  "zoom": -0.8257417898720895
                 }
               },
               "pinned": true
@@ -49,14 +49,12 @@
             }
           },
           {
-            "id": "a6b041837cf3fcf9",
+            "id": "c5e1060af5bcef6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Web Cache Poisoning.md"
               }
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sqlma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
+                "file": "Excalidraw/Web Cache Poisoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
+                "file": "Excalidraw/Web Cache Poisoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md"
+                "file": "Excalidraw/Web Cache Poisoning.md"
               }
             }
           },
@@ -207,13 +204,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6b041837cf3fcf9",
+  "active": "de8af916a27f894f",
   "lastOpenFiles": [
-    "Pentesting/Tools/All Useful Tools.md",
-    "Linux/Linux.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Linux/Commands/Text Processing/strings.md",
+    "Excalidraw/Web Cache Poisoning.md",
+    "Assets/Images/Web/web-framework-url-helper.png",
+    "Pentesting/Tools/All Useful Tools.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
+    "Assets/Images/Linux/Linux File Systems.png",
+    "Linux/Linux.md",
+    "Linux/Commands/Text Processing/strings.md",
     "General/Topics/Networking.md",
     "Windows/Windows.md",
     "General/Topics/SQL.md",
@@ -237,15 +237,12 @@
     "Pentesting/Tools/Password Cracking/hashid.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
     "Assets/Images/Networking/OSI vs TCP-IP.png",
-    "Assets/Images/Networking/TCP-IP Layers.png",
-    "Assets/Images/Networking/OSI Model 3.png",
     "Security/Security.md",
     "Networking",
     "Security/Web/Vulnerabilities/Directory Traversal - Path Traversal.md",
     "Security/Web/Web.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
     "Security/Web/Vulnerabilities/Local File Inclusion.md",
-    "Security/Web/Vulnerabilities/Remote File Inclusion.md",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities",
     "Assets/Images/Networking",
