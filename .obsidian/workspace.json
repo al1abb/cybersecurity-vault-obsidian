@@ -35,45 +35,21 @@
             }
           },
           {
-            "id": "247a0b4be56adc00",
+            "id": "8e903d755b26057f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentesting/Tools/All Useful Tools.md",
+                "file": "Pentesting/Tools Index.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "01cff2df89d7b033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "732dc29caf37ef7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
+                "file": "Pentesting/Tools Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
+                "file": "Pentesting/Tools Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md"
+                "file": "Pentesting/Tools Index.md"
               }
             }
           },
@@ -200,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,35 +194,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "732dc29caf37ef7e",
+  "active": "3f6eeb28518b1963",
   "lastOpenFiles": [
-    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/Wireshark.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Pentesting/Tools Index.md",
+    "Pentesting/Tools Index.md",
     "Pentesting/Tools/Reverse Engineering/GDB.md",
-    "Pentesting/Tools/Wireless Attacks/Aircrack-ng Suite.md",
     "Pentesting/Tools/Reverse Engineering/Ghidra.md",
+    "Pentesting/Tools/Wireless Attacks/Aircrack-ng Suite.md",
     "Pentesting/Tools/Password Cracking/hashid.md",
-    "Pentesting/Tools/Password Cracking/Crunch.md",
-    "Pentesting/Tools/Password Cracking/Hydra.md",
-    "Pentesting/Tools/Password Cracking/Hashcat.md",
+    "Pentesting/Tools/Password Cracking/crunch.md",
+    "Pentesting/Tools/Password Cracking/hydra.md",
+    "Pentesting/Tools/Password Cracking/hashcat.md",
     "Pentesting/Tools/Password Cracking/John-The-Ripper.md",
-    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
-    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/Bettercap.md",
-    "Pentesting/Tools/Privilege Escalation/Evil-winrm.md",
-    "Pentesting/Tools/Privilege Escalation/PEASS-ng (Privilege Escalation Awesome Scripts SUITE).md",
-    "Pentesting/Tools/Privilege Escalation/LinEnum.md",
+    "Pentesting/Tools/Privilege Escalation/evil-winrm.md",
     "Pentesting/Tools/Privilege Escalation/Linuxprivchecker.md",
-    "Pentesting/Tools/Exploitation & Payload Generation/Metasploit framework (Msfconsole).md",
-    "Pentesting/Tools/Exploitation & Payload Generation/Weevely.md",
-    "Pentesting/Tools/Exploitation & Payload Generation/Veil.md",
+    "Pentesting/Tools/Privilege Escalation/LinEnum.md",
+    "Pentesting/Tools/Privilege Escalation/PEASS-ng.md",
+    "Pentesting/Tools/Exploitation & Payload Generation/veil.md",
+    "Pentesting/Tools/Exploitation & Payload Generation/msfconsole.md",
+    "Pentesting/Tools/Exploitation & Payload Generation/weevely.md",
+    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/Wireshark.md",
+    "Pentesting/Tools/Information Gathering/Maltego.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/metagoofil.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/katana.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/httpx.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/BurpSuite.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Turbolist3r.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Ffuf.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Wfuzz.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Dirb.md",
-    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/turbolist3r.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/subfinder.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/amass.md",
     "Assets/Images/Web/web-framework-url-helper.png",
     "Assets/Images/Linux/Linux File Systems.png",
     "Assets/Images/Networking/TCP-IPv4 Settings Windows.png",
