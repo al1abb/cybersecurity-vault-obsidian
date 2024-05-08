@@ -48,8 +48,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting/Tools Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting/Tools Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting/Tools Index.md"
+                "file": "netlify.toml.md"
               }
             }
           },
@@ -194,11 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f6eeb28518b1963",
+  "active": "de8af916a27f894f",
   "lastOpenFiles": [
+    "netlify.toml.md",
+    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
+    "Pentesting/Tools Index.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Pentesting/Tools Index.md",
-    "Pentesting/Tools Index.md",
     "Pentesting/Tools/Reverse Engineering/GDB.md",
     "Pentesting/Tools/Reverse Engineering/Ghidra.md",
     "Pentesting/Tools/Wireless Attacks/Aircrack-ng Suite.md",
