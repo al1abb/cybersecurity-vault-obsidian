@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": 3542.0069048316263,
-                  "y": 582.8703847612239,
-                  "zoom": -0.8257417898720895
+                  "x": 3543.718005074695,
+                  "y": 468.4189936295211,
+                  "zoom": -0.21716119324805971
                 }
               },
               "pinned": true
@@ -49,17 +49,31 @@
             }
           },
           {
-            "id": "c5e1060af5bcef6f",
+            "id": "01cff2df89d7b033",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Web Cache Poisoning.md"
+                "file": "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "732dc29caf37ef7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Web Cache Poisoning.md",
+                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Web Cache Poisoning.md",
+                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Web Cache Poisoning.md"
+                "file": "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md"
               }
             }
           },
@@ -204,45 +218,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de8af916a27f894f",
+  "active": "732dc29caf37ef7e",
   "lastOpenFiles": [
+    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/Wireshark.md",
+    "Pentesting/Tools/Reverse Engineering/GDB.md",
+    "Pentesting/Tools/Wireless Attacks/Aircrack-ng Suite.md",
+    "Pentesting/Tools/Reverse Engineering/Ghidra.md",
+    "Pentesting/Tools/Password Cracking/hashid.md",
+    "Pentesting/Tools/Password Cracking/Crunch.md",
+    "Pentesting/Tools/Password Cracking/Hydra.md",
+    "Pentesting/Tools/Password Cracking/Hashcat.md",
+    "Pentesting/Tools/Password Cracking/John-The-Ripper.md",
+    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
+    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/Bettercap.md",
+    "Pentesting/Tools/Privilege Escalation/Evil-winrm.md",
+    "Pentesting/Tools/Privilege Escalation/PEASS-ng (Privilege Escalation Awesome Scripts SUITE).md",
+    "Pentesting/Tools/Privilege Escalation/LinEnum.md",
+    "Pentesting/Tools/Privilege Escalation/Linuxprivchecker.md",
+    "Pentesting/Tools/Exploitation & Payload Generation/Metasploit framework (Msfconsole).md",
+    "Pentesting/Tools/Exploitation & Payload Generation/Weevely.md",
+    "Pentesting/Tools/Exploitation & Payload Generation/Veil.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/metagoofil.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/katana.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/httpx.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/BurpSuite.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Turbolist3r.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Ffuf.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Wfuzz.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Dirb.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Excalidraw/Web Cache Poisoning.md",
     "Assets/Images/Web/web-framework-url-helper.png",
-    "Pentesting/Tools/All Useful Tools.md",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/SQLMap.md",
     "Assets/Images/Linux/Linux File Systems.png",
-    "Linux/Linux.md",
-    "Linux/Commands/Text Processing/strings.md",
-    "General/Topics/Networking.md",
-    "Windows/Windows.md",
-    "General/Topics/SQL.md",
-    "General/Topics/XML.md",
-    "General/Topics/Operators.md",
-    "General/Topics/Regex.md",
-    "General/Topics/Serialization.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/Deserialization.md",
-    "Security/Web/Bypasses/exif_imagetype bypass.md",
-    "Security/MITM/DNS Spoofing.md",
-    "Security/MITM/ARP Spoofing.md",
-    "Security/MITM/MITM.md",
     "Assets/Images/Networking/TCP-IPv4 Settings Windows.png",
-    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/Gobuster.md",
     "Assets/Images/Networking/Subnet Mask.png",
     "Assets/Images/Networking/IP address classes.png",
     "Assets/Images/Networking/Network Interface Card.png",
     "Assets/Images/Networking/Hub.png",
     "Assets/Images/Networking/Router.png",
     "Assets/Images/Networking/Switch.png",
-    "Pentesting/Tools/Password Cracking/hashid.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
     "Assets/Images/Networking/OSI vs TCP-IP.png",
-    "Security/Security.md",
     "Networking",
-    "Security/Web/Vulnerabilities/Directory Traversal - Path Traversal.md",
-    "Security/Web/Web.md",
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
-    "Security/Web/Vulnerabilities/Local File Inclusion.md",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities",
     "Assets/Images/Networking",
