@@ -26,24 +26,12 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": -980.7836296327283,
-                  "y": -2049.1586623684343,
-                  "zoom": -0.2171611932480596
+                  "x": -414.9521225706328,
+                  "y": -2015.8190487596523,
+                  "zoom": -0.04422612194380493
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "64398586f19f31b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Topics/Networking.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -61,6 +49,18 @@
             }
           },
           {
+            "id": "64398586f19f31b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Topics/Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a05fb61a366979bf",
             "type": "leaf",
             "state": {
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,9 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "de8af916a27f894f",
+  "active": "64398586f19f31b0",
   "lastOpenFiles": [
     "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Assets/Images/Networking/OSI, TCP-IP Data Encapsulation.png",
+    "General/Topics/Networking.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
     "Assets/Images/Networking/OSI vs TCP-IP.png",
     "Assets/Images/Networking/OSI vs TCP-IP 1.png",
@@ -247,7 +249,6 @@
     "Pentesting/Tools/Password Cracking/John-The-Ripper.md",
     "Pentesting/Tools/Privilege Escalation/evil-winrm.md",
     "Pentesting/Tools/Privilege Escalation/Linuxprivchecker.md",
-    "Pentesting/Tools/Privilege Escalation/LinEnum.md",
     "Assets/Images/Web/web-framework-url-helper.png",
     "Assets/Images/Linux/Linux File Systems.png",
     "Assets/Images/Networking/TCP-IPv4 Settings Windows.png",
@@ -255,7 +256,6 @@
     "Assets/Images/Networking/IP address classes.png",
     "Assets/Images/Networking/Network Interface Card.png",
     "Assets/Images/Networking/Hub.png",
-    "Assets/Images/Networking/Router.png",
     "Networking",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities",

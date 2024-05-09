@@ -114,6 +114,26 @@ The Application, Presentation and Session layers in OSI appear as a single Appli
 ![[Assets/Images/Networking/OSI vs TCP-IP.png]]
 
 ---
+
+## TCP vs UDP
+
+There are 2 main transport protocols: 
+TCP (Transmission Control Protocol) 
+and 
+UDP
+
+TCP is reliable. 
+It makes sure your data is received. If it does not receive confirmation that you got it, TCP will send it again
+
+It does 3-way handshake before exchanging data. After the handshake, communication is possible
+- SYN (Synchronization)
+- SYN+ACK
+- ACK (Acknowledgement)
+
+UDP is fast
+For real-time applications, it does not make sense to use TCP and resend the data
+
+---
 ## Network Devices
 
 ### Hub
@@ -310,3 +330,4 @@ With the nslookup command, we display the DNS server used by our computer and th
 
 The Tracert program uses ICMP messages like ping. By tracing the packets going to the target computer we can see where the problems and delays are.
 
+---

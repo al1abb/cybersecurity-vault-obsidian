@@ -3,9 +3,9 @@
 		{"id":"c4c6faa7a93e1494","type":"group","x":-1841,"y":-67,"width":7761,"height":4867,"color":"#ffffff","label":"Web"},
 		{"id":"f8f19797c8da56e0","type":"group","x":-640,"y":-67,"width":5480,"height":2147,"color":"6","label":"mdisec"},
 		{"id":"ba54808158368ead","type":"group","x":-1840,"y":2560,"width":3182,"height":2240,"color":"3","label":"SQLi"},
-		{"id":"02eaed13e976d00f","type":"group","x":-1841,"y":-2480,"width":1661,"height":1200,"label":"Networking"},
+		{"id":"02eaed13e976d00f","type":"group","x":-1841,"y":-2480,"width":1801,"height":1200,"label":"Networking"},
 		{"id":"b78a873596554f55","type":"group","x":-1840,"y":-1200,"width":1120,"height":1000,"color":"6","label":"Linux"},
-		{"id":"6016651c4ec507b3","type":"group","x":-1360,"y":-2440,"width":1160,"height":744,"color":"2","label":"OSI Model"},
+		{"id":"6016651c4ec507b3","type":"group","x":-1360,"y":-2440,"width":1220,"height":760,"color":"2","label":"OSI Model"},
 		{"id":"c4d93bc236977dc6","type":"group","x":-1841,"y":-3360,"width":760,"height":740,"color":"5","label":"General"},
 		{"id":"d81f0930900bbb57","type":"file","file":"Excalidraw/Web Cache Poisoning.md","x":3121,"y":-47,"width":1200,"height":1147,"color":"6"},
 		{"id":"c0884f78b4d12414","type":"file","file":"Excalidraw/SSTI.md","x":1760,"y":920,"width":1280,"height":1067,"color":"6"},
@@ -34,8 +34,9 @@
 		{"id":"043ac262886d1a20","type":"file","file":"Assets/Images/Networking/Insecure Port VS Secure Port.png","x":-1821,"y":-1860,"width":420,"height":551},
 		{"id":"2e7144f9f96691c4","type":"file","file":"Assets/Images/Linux/Linux File Systems.png","x":-1817,"y":-852,"width":394,"height":512},
 		{"id":"0522be08565656f9","type":"file","file":"Assets/Images/Networking/Common TCP-UDP Ports.png","x":-1821,"y":-2440,"width":420,"height":540},
-		{"id":"bddb452328d22110","type":"file","file":"Assets/Images/Networking/OSI Model 2.png","x":-616,"y":-2420,"width":400,"height":328},
-		{"id":"5e0682c62d035b71","type":"file","file":"Assets/Images/Networking/OSI vs TCP-IP 1.png","x":-1340,"y":-2052,"width":608,"height":304}
+		{"id":"5e0682c62d035b71","type":"file","file":"Assets/Images/Networking/OSI vs TCP-IP 1.png","x":-1340,"y":-2052,"width":600,"height":300},
+		{"id":"576b3d837e6bc443","type":"file","file":"Assets/Images/Networking/OSI, TCP-IP Data Encapsulation.png","x":-700,"y":-2052,"width":540,"height":349},
+		{"id":"bddb452328d22110","type":"file","file":"Assets/Images/Networking/OSI Model 2.png","x":-584,"y":-2428,"width":424,"height":348}
 	],
 	"edges":[
 		{"id":"5e8c8c2931ce6105","fromNode":"614bb3187c9565d6","fromSide":"left","toNode":"889bb78e2b2b3e71","toSide":"right","fromEnd":"arrow"}
