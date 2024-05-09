@@ -98,6 +98,9 @@ It is the layer where data is transmitted as an electrical signal over copper ca
 > 
 > Developed to connect research and researchers, ARPANET gave rise to the TCP/IP protocol, which later led to the development of the Internet. Source wikipedia
 
+> [!info] Wi-Fi AP in OSI model
+> WiFi (802.11) operates at the first two layers of the OSI model, in other words, **the physical layer and the data link layer**
+
 ---
 ## TCP/IP Protocol Stack
 
@@ -108,7 +111,7 @@ Although OSI was put forward as a standard model, the TCP/IP protocol stack came
 The figure below compares the OSI model and the TCP/IP Protocol set. 
 The Application, Presentation and Session layers in OSI appear as a single Application layer in TCP/IP. Again, the Data Link and Physical layer in OSI is called Network Access in TCP/IP.
 
-![[OSI vs TCP-IP.png]]
+![[Assets/Images/Networking/OSI vs TCP-IP.png]]
 
 ---
 ## Network Devices
@@ -116,7 +119,11 @@ The Application, Presentation and Session layers in OSI appear as a single Appli
 ### Hub
 ![[Hub.png]]
 
-It is the network device located in the center in Star topology. It is produced as 4-8-16-24-48 etc. ports. Since hubs transmit the signal from one port to all ports except the incoming port, they cause network congestion and collisions. Although mechanisms such as half duplex (one-way communication) and CSMA/CD have been developed to prevent these, they are not used much anymore with the production of switches.
+It is the network device located in the center in Star topology. It is produced as 4-8-16-24-48 etc. ports. 
+
+Since hubs transmit the signal from one port to all ports except the incoming port, they cause network congestion and collisions.
+
+Although mechanisms such as half duplex (one-way communication) and CSMA/CD have been developed to prevent these, they are not used much anymore with the production of switches.
 
 ### Switch
 
@@ -133,6 +140,11 @@ Today, switches with 100 Mbit- 1 Gbit- 10 Gbit and 40 GBit ports have been produ
 ![[Router.png]]
 
 Network devices that connect different local area networks (LANs) are called routers. The wide area network (WAN) we call the Internet is a network of thousands of routers. The figure above shows an ADSL router, often incorrectly called a modem, which is also a wireless access point. This router routes the computers in our home to the Internet.
+
+> [!info] Modem VS Router
+> A modem and router are both essential components of most home networks, especially for those who have a home office and work remotely. 
+> 
+> **The modem is responsible for sending and receiving signals from the ISP, while the router disperses the signal to devices on the network**.
 
 ### Firewall-UTM
 
