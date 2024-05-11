@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": -414.9521225706328,
-                  "y": -2015.8190487596523,
-                  "zoom": -0.04422612194380493
+                  "x": -687.2533382294783,
+                  "y": -2146.833108128687,
+                  "zoom": 0.5643544746802249
                 }
               },
               "pinned": true
@@ -47,33 +47,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "64398586f19f31b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Topics/Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a05fb61a366979bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dig",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Topics/Networking.md",
+                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Topics/Networking.md",
+                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Topics/Networking.md"
+                "file": "Cheatsheets/Cheatsheet Canvas.canvas"
               }
             }
           },
@@ -218,15 +194,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64398586f19f31b0",
+  "active": "7ee302a1c06feb15",
   "lastOpenFiles": [
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Assets/Images/Networking/OSI, TCP-IP Data Encapsulation.png",
+    "Pentesting/Tools Index.md",
     "General/Topics/Networking.md",
+    "Assets/Images/Networking/OSI, TCP-IP Data Encapsulation.png",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
     "Assets/Images/Networking/OSI vs TCP-IP.png",
     "Assets/Images/Networking/OSI vs TCP-IP 1.png",
-    "Pentesting/Tools Index.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SQLi (SQL Injection)/Blind SQLi.md",
     "Excalidraw/Deserialization.md",
     "Excalidraw/Web Cache Poisoning.md",
