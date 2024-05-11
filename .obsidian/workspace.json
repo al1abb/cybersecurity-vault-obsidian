@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": -687.2533382294783,
-                  "y": -2146.833108128687,
-                  "zoom": 0.5643544746802249
+                  "x": 336.8801102478641,
+                  "y": -1978.464431255149,
+                  "zoom": 0.39141940337597025
                 }
               },
               "pinned": true
@@ -47,9 +47,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b5b4d15d5fa4abc8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Networking.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
+                "file": "Excalidraw/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheets/Cheatsheet Canvas.canvas",
+                "file": "Excalidraw/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheets/Cheatsheet Canvas.canvas"
+                "file": "Excalidraw/Networking.md"
               }
             }
           },
@@ -194,9 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ee302a1c06feb15",
+  "active": "b5b4d15d5fa4abc8",
   "lastOpenFiles": [
     "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Excalidraw/Networking.md",
+    "Assets/Images/Networking/IP-Address-Classes.png",
     "Pentesting/Tools Index.md",
     "General/Topics/Networking.md",
     "Assets/Images/Networking/OSI, TCP-IP Data Encapsulation.png",
@@ -224,14 +236,12 @@
     "Pentesting/Tools/Password Cracking/hashcat.md",
     "Pentesting/Tools/Password Cracking/John-The-Ripper.md",
     "Pentesting/Tools/Privilege Escalation/evil-winrm.md",
-    "Pentesting/Tools/Privilege Escalation/Linuxprivchecker.md",
     "Assets/Images/Web/web-framework-url-helper.png",
     "Assets/Images/Linux/Linux File Systems.png",
     "Assets/Images/Networking/TCP-IPv4 Settings Windows.png",
     "Assets/Images/Networking/Subnet Mask.png",
     "Assets/Images/Networking/IP address classes.png",
     "Assets/Images/Networking/Network Interface Card.png",
-    "Assets/Images/Networking/Hub.png",
     "Networking",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities",
