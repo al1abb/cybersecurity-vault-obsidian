@@ -29,7 +29,7 @@ Many common web frameworks used to build websites, such as Ruby on Rails, Django
 
 `<img>` tag can't invoke a `POST` request
 
-In this situation, it’s possible for a malicious site to create a hidden HTML form and submit it silently to the vulnerable site without the target’s knowledge.
+In this situation, it’s possible for a malicious site to create a hidden HTML `<form>` and submit it silently to the vulnerable site without the target’s knowledge.
 
 ---
 ## Related links

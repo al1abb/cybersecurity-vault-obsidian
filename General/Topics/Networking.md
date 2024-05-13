@@ -331,3 +331,6 @@ With the nslookup command, we display the DNS server used by our computer and th
 The Tracert program uses ICMP messages like ping. By tracing the packets going to the target computer we can see where the problems and delays are.
 
 ---
+## Related
+
+Check out this network drawing: [[Networking drawings|Networking drawings]]

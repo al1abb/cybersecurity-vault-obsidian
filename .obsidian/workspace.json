@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": 336.8801102478641,
-                  "y": -1978.464431255149,
-                  "zoom": 0.39141940337597025
+                  "x": 752.5307230136265,
+                  "y": -1849.990665892245,
+                  "zoom": -0.5214514915600746
                 }
               },
               "pinned": true
@@ -61,12 +61,12 @@
             }
           },
           {
-            "id": "34177263ca27fffb",
+            "id": "70ae591b02baab19",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Networking.md"
+                "file": "Excalidraw/Networking drawings.md"
               }
             }
           }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Networking.md",
+                "file": "Excalidraw/Networking drawings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Networking.md",
+                "file": "Excalidraw/Networking drawings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Networking.md"
+                "file": "Excalidraw/Networking drawings.md"
               }
             }
           },
@@ -216,14 +216,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34177263ca27fffb",
+  "active": "70ae591b02baab19",
   "lastOpenFiles": [
-    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
-    "Excalidraw/Networking.md",
     "Cheatsheets/Cheatsheet Canvas.canvas",
-    "Assets/Images/Networking/IP-Address-Classes.png",
+    "Excalidraw/Networking drawings.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+    "Assets/Images/Networking/DNS.png",
+    "Assets/Images/Networking/ARP Spoofing Attack.png",
+    "Assets/Images/Networking/ARP Protocol.png",
+    "Assets/Images/Web/server-side request forgery.svg",
     "Pentesting/Tools Index.md",
+    "Security/Web/Bypasses/exif_imagetype bypass.md",
     "General/Topics/Networking.md",
+    "Linux/Linux.md",
+    "Excalidraw/Cookie and Session drawing.md",
+    "Assets/Images/Networking/Private IP Addresses.png",
+    "Assets/Images/Networking/IP-Address-Classes.png",
     "Assets/Images/Networking/OSI, TCP-IP Data Encapsulation.png",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/OS Command Injection.md",
     "Assets/Images/Networking/OSI vs TCP-IP.png",
@@ -245,16 +253,7 @@
     "Pentesting/Tools/Wireless Attacks/Aircrack-ng Suite.md",
     "Pentesting/Tools/Password Cracking/hashid.md",
     "Pentesting/Tools/Password Cracking/crunch.md",
-    "Pentesting/Tools/Password Cracking/hydra.md",
-    "Pentesting/Tools/Password Cracking/hashcat.md",
-    "Pentesting/Tools/Password Cracking/John-The-Ripper.md",
-    "Pentesting/Tools/Privilege Escalation/evil-winrm.md",
     "Assets/Images/Web/web-framework-url-helper.png",
-    "Assets/Images/Linux/Linux File Systems.png",
-    "Assets/Images/Networking/TCP-IPv4 Settings Windows.png",
-    "Assets/Images/Networking/Subnet Mask.png",
-    "Assets/Images/Networking/IP address classes.png",
-    "Assets/Images/Networking/Network Interface Card.png",
     "Networking",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities",
