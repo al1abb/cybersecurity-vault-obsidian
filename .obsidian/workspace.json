@@ -52,6 +52,18 @@
             "id": "b5b4d15d5fa4abc8",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34177263ca27fffb",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Networking.md"
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "csrf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,10 +216,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5b4d15d5fa4abc8",
+  "active": "34177263ca27fffb",
   "lastOpenFiles": [
-    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
     "Excalidraw/Networking.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
     "Assets/Images/Networking/IP-Address-Classes.png",
     "Pentesting/Tools Index.md",
     "General/Topics/Networking.md",
