@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": 752.5307230136265,
-                  "y": -1849.990665892245,
-                  "zoom": -0.5214514915600746
+                  "x": 1499.7741251733855,
+                  "y": -1511.6031039707075,
+                  "zoom": 1
                 }
               },
               "pinned": true
@@ -220,6 +220,7 @@
   "lastOpenFiles": [
     "Cheatsheets/Cheatsheet Canvas.canvas",
     "Excalidraw/Networking drawings.md",
+    "Excalidraw/Modern Web Workflow.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
     "Assets/Images/Networking/DNS.png",
     "Assets/Images/Networking/ARP Spoofing Attack.png",
@@ -252,7 +253,6 @@
     "Pentesting/Tools/Reverse Engineering/Ghidra.md",
     "Pentesting/Tools/Wireless Attacks/Aircrack-ng Suite.md",
     "Pentesting/Tools/Password Cracking/hashid.md",
-    "Pentesting/Tools/Password Cracking/crunch.md",
     "Assets/Images/Web/web-framework-url-helper.png",
     "Networking",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
