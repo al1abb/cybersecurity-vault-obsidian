@@ -26,9 +26,9 @@
               "state": {
                 "file": "Cheatsheets/Cheatsheet Canvas.canvas",
                 "viewState": {
-                  "x": 1499.7741251733855,
-                  "y": -1511.6031039707075,
-                  "zoom": 1
+                  "x": 2549.680415878498,
+                  "y": 1510.3660876442598,
+                  "zoom": -0.5214514915600746
                 }
               },
               "pinned": true
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "b5b4d15d5fa4abc8",
+            "id": "165ed632ad3c433c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+                "file": "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,9 +69,21 @@
                 "file": "Excalidraw/Networking drawings.md"
               }
             }
+          },
+          {
+            "id": "8bf70d573199e636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Topics/Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "csrf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Networking drawings.md",
+                "file": "General/Topics/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Networking drawings.md",
+                "file": "General/Topics/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Networking drawings.md"
+                "file": "General/Topics/Networking.md"
               }
             }
           },
@@ -216,17 +228,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70ae591b02baab19",
+  "active": "8bf70d573199e636",
   "lastOpenFiles": [
-    "Cheatsheets/Cheatsheet Canvas.canvas",
     "Excalidraw/Networking drawings.md",
+    "2024-06-09.md",
+    "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/Directory & FIle Enumeration/gobuster.md",
+    "Security/Web/Vulnerabilities/Broken Access Control.md",
+    "Security/Web/Vulnerabilities/Directory Traversal - Path Traversal.md",
+    "Security/Web/Vulnerabilities/Remote File Inclusion.md",
+    "Security/Web/Vulnerabilities/Local File Inclusion.md",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/XXE.md",
     "Excalidraw/Modern Web Workflow.md",
+    "Cheatsheets/Cheatsheet Canvas.canvas",
+    "Security/Web/Vulnerabilities/Server Side Vulnerabilities/SSRF.md",
     "Security/Web/Vulnerabilities/Server Side Vulnerabilities/CSRF.md",
+    "Pentesting/Tools Index.md",
     "Assets/Images/Networking/DNS.png",
     "Assets/Images/Networking/ARP Spoofing Attack.png",
     "Assets/Images/Networking/ARP Protocol.png",
     "Assets/Images/Web/server-side request forgery.svg",
-    "Pentesting/Tools Index.md",
     "Security/Web/Bypasses/exif_imagetype bypass.md",
     "General/Topics/Networking.md",
     "Linux/Linux.md",
@@ -241,18 +261,11 @@
     "Excalidraw/Deserialization.md",
     "Excalidraw/Web Cache Poisoning.md",
     "Excalidraw/File Upload Vulnerability.md",
-    "Security/Web/Vulnerabilities/Directory Traversal - Path Traversal.md",
     "Security/Security.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/katana.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/metagoofil.md",
     "Pentesting/Tools/Information Gathering/Web App Analysis & Enumeration/httpx.md",
     "index.md",
-    "netlify.toml.md",
-    "Pentesting/Tools/Information Gathering/Network Scanning & Enumeration/NMAP.md",
-    "Pentesting/Tools/Reverse Engineering/GDB.md",
-    "Pentesting/Tools/Reverse Engineering/Ghidra.md",
-    "Pentesting/Tools/Wireless Attacks/Aircrack-ng Suite.md",
-    "Pentesting/Tools/Password Cracking/hashid.md",
     "Assets/Images/Web/web-framework-url-helper.png",
     "Networking",
     "Security/Web/Vulnerabilities/Client Side Vulnerabilities/XSS",
