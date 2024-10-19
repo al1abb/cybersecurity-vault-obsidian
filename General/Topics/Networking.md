@@ -26,7 +26,7 @@ In this topology, as in the bus topology, like a hub or switch computers are con
 ![[Ring Topology.png]]
 ### Star Topology
 
-It is a topology often used today where a network device such as a hub or switch is at the center and hosts are connected to the network device through network media. 
+It is a topology often used today where a network device such as a hub or switch is at the center and hosts are connected to the network device through network media.
 
 In the event of a cable or port failure, only the relevant computer is affected. Fault detection is easily done with the leds on modern switches.
 
