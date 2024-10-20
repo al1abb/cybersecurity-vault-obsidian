@@ -13,7 +13,7 @@ Mainly 4 categories:
 
 ### Bus Topology
 
-In this type of topology, as can be seen in the figure, all computers are connected to each other via the same trunk cable without using a network device such as a hub or switch. This topology has many disadvantages. 
+In this type of topology, as can be seen in the figure, all computers are connected to each other via the same trunk cable without using a network device such as a hub or switch. This topology has many disadvantages.
 
 Only one computer at a time can send data. If another computer tries to send it, a collision will occur. Also, if there is a break in the trunk cable, all subsequent hosts lose their network connection. It is no longer used today.
 
